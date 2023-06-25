@@ -1,0 +1,691 @@
+{
+  "set5": {
+    "setNumber": 5,
+    "setName": "set5",
+    "words": [
+      {
+        "word": "aloof",
+        "meanings": [
+          "not friendly to other people; distant",
+          "not involved in something; apart"
+        ],
+        "synonyms": [
+          [
+            "antisocial",
+            "asocial",
+            "buttoned-up",
+            "cold",
+            "cold-eyed",
+            "cool",
+            "detached",
+            "distant",
+            "dry",
+            "frosty",
+            "offish",
+            "remote",
+            "standoff",
+            "standoffish",
+            "unbending",
+            "unclubbable",
+            "unsociable"
+          ]
+        ],
+        "wordSentence": [
+          "In truth, he isn't so much aloof as he is courtly in a formal, afternoon-tea sort of way.",
+          "Most American journalists who \"do\" politics cannot resist getting to know the Players. Walter Lippmann was typical of an earlier generation, the disinterested wise man who remained aloof, chiselling great thoughts on marble columns.",
+          "Jeremy Price (this name and a few others have been changed), a black teacher from St. Paul's, tried a few times to make small talk, but he was a Brahmin from another planet: cool, ironic, aloof."
+        ]
+      },
+      {
+        "word": "clangor",
+        "meanings": [
+          "a continuous loud banging or ringing sound.\n\"he went deaf because of the clangour of the steam hammers\""
+        ],
+        "synonyms": [
+          [
+            "babel",
+            "blare",
+            "bluster",
+            "bowwow",
+            "brawl",
+            "bruit [archaic]",
+            "cacophony",
+            "chatter",
+            "clamor",
+            "decibel(s)",
+            "din",
+            "discordance",
+            "katzenjammer",
+            "noise",
+            "racket",
+            "rattle",
+            "roar"
+          ]
+        ],
+        "wordSentence": [
+          "the clangor of pots and pans coming from the kitchen as the cooks threw together an impromptu meal",
+          "the clangor of a battle in the Middle Ages, as steel hit against steel a thousand times"
+        ]
+      },
+      {
+        "word": "conventional",
+        "meanings": [
+          "always behaving in a traditional or normal way"
+        ],
+        "synonyms": [
+          [
+            "current",
+            "customary",
+            "going",
+            "popular",
+            "prevailing",
+            "prevalent",
+            "standard",
+            "stock",
+            "usual"
+          ]
+        ],
+        "wordSentence": [
+          "The number sign is the conventional symbol for labeling something measured in pounds.",
+          "While microwaves heat up food more quickly, most food tastes better when it is cooked in a conventional oven.",
+          "Most of her books are conventional detective stories.",
+          "His views on dating are more conventional than those of some of his friends."
+        ]
+      },
+      {
+        "word": "debunk",
+        "meanings": [
+          "expose the falseness or hollowness of (an idea or belief).\n\"she debunks all the usual rubbish about acting\"\nSimilar:\nexplode\ndeflate\npuncture\nquash\nknock the bottom out of\nexpose",
+          "reduce the inflated reputation of (someone).\n\"comedy takes delight in debunking heroes\""
+        ],
+        "synonyms": [
+          [
+            "belie",
+            "confound",
+            "confute",
+            "disconfirm",
+            "discredit",
+            "disprove",
+            "falsify",
+            "rebut",
+            "refute",
+            "shoot down"
+          ]
+        ],
+        "wordSentence": [
+          "The article debunks the notion that life exists on Mars.",
+          "The results of the study debunk his theory."
+        ]
+      },
+      {
+        "word": "diminutive",
+        "meanings": [
+          "much smaller than usual"
+        ],
+        "synonyms": [
+          [
+            "dwarf",
+            "midget",
+            "mite",
+            "peewee",
+            "pygmy",
+            "pigmy",
+            "runt",
+            "scrub",
+            "shrimp",
+            "Tom Thumb"
+          ],
+          [
+            "bantam",
+            "dinky",
+            "dwarfish",
+            "fine",
+            "half-pint",
+            "Lilliputian",
+            "little",
+            "pint-size",
+            "pint-sized",
+            "pocket",
+            "pocket-size",
+            "pocket-sized",
+            "puny",
+            "pygmy",
+            "shrimpy",
+            "slight",
+            "small",
+            "smallish",
+            "subnormal",
+            "toylike",
+            "undersized",
+            "undersize"
+          ]
+        ],
+        "wordSentence": [
+          "the diminutives “-ette” and “kitchenette”",
+          "dik-diks, the diminutives of the antelope family",
+          "a radio with a diminutive set of speakers",
+          "the diminutive suffixes “-ette” and “-ling”"
+        ]
+      },
+      
+      {
+        "word": "enigmatic",
+        "meanings": [],
+        "synonyms": [
+          [
+            "arcane",
+            "cryptic",
+            "deep",
+            "impenetrable",
+            "inscrutable",
+            "mysterious",
+            "mystic",
+            "occult",
+            "uncanny"
+          ]
+        ],
+        "wordSentence": [
+          "Space seethes with an enormous enigmatic energy, and, each second, trillions of cubic light-years more of it materializes from nothingness.",
+          "You'll recognize them by their enigmatic smile and faraway look as they jog, skate, commute, or wander the aisles of the supermarket.",
+          "Despite all that has been written—and surmised—about him, Bill Gates remains the enigmatic ringmaster of the digital circus.",
+          "the discovery of the abandoned ship in mid ocean remains one of the most enigmatic episodes in seafaring history",
+          "the Mona Lisa's enigmatic smile"
+        ]
+      },
+      
+      {
+        "word": "extravagant",
+        "meanings": [
+          "spending or costing too much money",
+          "exaggerated; more than is usual, true or necessary"
+        ],
+        "synonyms": [
+          [
+            "high-rolling",
+            "prodigal",
+            "profligate",
+            "spendthrift",
+            "squandering",
+            "thriftless",
+            "unthrifty",
+            "wasteful"
+          ]
+        ],
+        "wordSentence": [
+          "The company has been making extravagant claims about the drug's effectiveness.",
+          "The film is notable for its extravagant settings and special effects.",
+          "We're going on a less extravagant vacation this year.",
+          "Her extravagant spending has to stop."
+        ]
+      },
+      {
+        "word": "fanciful",
+        "meanings": [
+          "over-imaginative and unrealistic.\n\"ever more fanciful proposals were raised\"",
+          "highly ornamental or imaginative in design.\n\"a fanciful Art Nouveau bar\"\nSimilar:\nornate\nexotic\nimaginative\ncreative\nfancy\ncurious\nodd"
+        ],
+        "synonyms": [
+          [
+            "absurd",
+            "bizarre",
+            "crazy",
+            "fantastic",
+            "fantastical",
+            "foolish",
+            "insane",
+            "nonsensical",
+            "preposterous",
+            "unreal",
+            "wild"
+          ]
+        ],
+        "wordSentence": [
+          "a fanciful tale of a monster in the woods",
+          "They gave all their children fanciful names."
+        ]
+      },
+      {
+        "word": "frivolous",
+        "meanings": [
+          "not serious; silly"
+        ],
+        "synonyms": [
+          [
+            "fiddling",
+            "foolish",
+            "incidental",
+            "inconsequential",
+            "inconsiderable",
+            "insignificant",
+            "little",
+            "Mickey Mouse",
+            "minor",
+            "minute",
+            "negligible",
+            "nugatory",
+            "slight",
+            "small",
+            "small-fry",
+            "trifling",
+            "trivial",
+            "unimportant"
+          ]
+        ],
+        "wordSentence": [
+          "She knew that people might think her frivolous, Kitty said, to talk to some saint when she had a cooking disaster, but that was what she really believed the saints were there for.",
+          "As the Explorer quickly became the most popular SUV of all time … a number of lawsuits concerning the Firestone tires were filed, the first in 1992. But Ford and Firestone, like most companies in today's … society, tend to assume that the bulk of legal actions are frivolous.",
+          "There is no frivolous decoration, no canned music, nothing but the essentials—well-worn cutlery and table linen, unpretentious glasses.",
+          "She thinks window shopping is a frivolous activity.",
+          "judges are getting sick of people bringing frivolous lawsuits"
+        ]
+      },
+      {
+        "word": "heterogeneous",
+        "meanings": [
+          "consisting of different kinds of people or things"
+        ],
+        "synonyms": [
+          [
+            "assorted",
+            "eclectic",
+            "indiscriminate",
+            "kitchen-sink",
+            "magpie",
+            "miscellaneous",
+            "mixed",
+            "motley",
+            "patchwork",
+            "piebald",
+            "promiscuous",
+            "raggle-taggle",
+            "ragtag",
+            "varied"
+          ]
+        ],
+        "wordSentence": [
+          "the seating in the hall was a heterogeneous collection of old school desk chairs, wood and metal folding chairs, and even a few plush theater seats"
+        ]
+      },
+      {
+        "word": "imperious",
+        "meanings": [
+          "expecting people to obey you and treating them as if they are not as important as you"
+        ],
+        "synonyms": [
+          [
+            "authoritarian",
+            "authoritative",
+            "autocratic",
+            "autocratical",
+            "bossy",
+            "despotic",
+            "dictatorial",
+            "domineering",
+            "masterful",
+            "overbearing",
+            "peremptory",
+            "tyrannical",
+            "tyrannic",
+            "tyrannous"
+          ]
+        ],
+        "wordSentence": [
+          "an imperious little boy who liked to tell the other scouts what to do",
+          "an imperious movie star who thinks she's some sort of goddess"
+        ]
+      },
+      {
+        "word": "impertinent",
+        "meanings": [
+          "not showing respect to somebody who is older and more important; rude"
+        ],
+        "synonyms": [
+          [
+            "arch",
+            "audacious",
+            "bold",
+            "bold-faced",
+            "brash",
+            "brassbound",
+            "brassy",
+            "brazen",
+            "brazen-faced",
+            "cheeky",
+            "cocksure",
+            "cocky",
+            "fresh",
+            "impudent",
+            "insolent",
+            "nervy",
+            "sassy",
+            "saucy",
+            "wise"
+          ]
+        ],
+        "wordSentence": [
+          "She asked a few impertinent questions.",
+          "the impertinent child had a smart answer for everything"
+        ]
+      },
+      
+      
+      {
+        "word": "laudable",
+        "meanings": [
+          "deserving to be appreciated, praised or admired"
+        ],
+        "synonyms": [
+          [
+            "admirable",
+            "applaudable",
+            "commendable",
+            "creditable",
+            "estimable",
+            "meritorious",
+            "praiseworthy"
+          ]
+        ],
+        "wordSentence": [
+          "Improving the schools is a laudable goal.",
+          "you showed laudable restraint in dealing with that ridiculously demanding customer"
+        ]
+      },
+      {
+        "word": "lax",
+        "meanings": [
+          "not having high standards; not strict"
+        ],
+        "synonyms": [
+          [
+            "careless",
+            "derelict",
+            "disregardful",
+            "lazy",
+            "neglectful",
+            "neglecting",
+            "negligent",
+            "remiss",
+            "slack"
+          ]
+        ],
+        "wordSentence": [
+          "The university has been lax about enforcing these rules.",
+          "lax parents who let their kids stay out as late as they want"
+        ]
+      },
+      {
+        "word": "marginalize",
+        "meanings": [
+          "to treat a person, group, etc. in a way that makes them feel that they are not important and have no power"
+        ],
+        "synonyms": [],
+        "wordSentence": [
+          "The program helps people from marginalized groups."
+        ]
+      },
+      {
+        "word": "panache",
+        "meanings": [
+          "a confident and stylish way of doing things that people find attractive"
+        ],
+        "synonyms": [],
+        "wordSentence": [
+          "She played the role of hostess with great panache."
+        ]
+      },
+      {
+        "word": "plodding",
+        "meanings": [
+          "to walk slowly and in a heavy or tired way",
+          "to make slow progress, especially with difficult or boring work"
+        ],
+        "synonyms": [
+          [
+            "bang away",
+            "beaver (away)",
+            "dig (away)",
+            "drudge",
+            "endeavor",
+            "fag",
+            "grub",
+            "hump",
+            "hustle",
+            "labor",
+            "moil",
+            "peg (away)",
+            "plow",
+            "plug",
+            "slave",
+            "slog",
+            "strain",
+            "strive",
+            "struggle",
+            "sweat",
+            "toil",
+            "travail",
+            "tug",
+            "work"
+          ]
+        ],
+        "wordSentence": [
+          "We plodded through mud that came up past our ankles.",
+          "I could hear my roommate plodding up the steps to our apartment.",
+          "We plodded our way across the muddy field.",
+          "He plodded through his work.",
+          "The day was plodding along."
+        ]
+      },
+      {
+        "word": "prosaic",
+        "meanings": [
+          "having or using the style or diction of prose as opposed to poetry; lacking imaginativeness or originality.\n\"prosaic language can't convey the experience\"\nSimilar:\nunimaginative\nuninspired\nmatter-of-fact\ndull\ndry\nhumdrum",
+          "commonplace; unromantic.\n\"the masses were too preoccupied by prosaic day-to-day concerns\"\nSimilar:\nordinary\neveryday\nusual\ncommon\nconventional\nstraightforward"
+        ],
+        "synonyms": [
+          [
+            "average",
+            "common",
+            "commonplace",
+            "cut-and-dried",
+            "cut-and-dry",
+            "everyday",
+            "garden-variety",
+            "normal",
+            "ordinary",
+            "routine",
+            "run-of-the-mill",
+            "standard",
+            "standard-issue",
+            "unexceptional",
+            "unremarkable",
+            "usual",
+            "workaday"
+          ]
+        ],
+        "wordSentence": [
+          "For the most part, the descriptions of the books listed in the \"Catalog,\" though informative, are relentlessly prosaic, even hackneyed.",
+          "In addition to the prosaic essentials of life—wheat, rice, and salt—the Portuguese found exotic stores of pepper, cinnamon, cloves, ginger, and other spices.",
+          "There is, of course, an ordinary medicine, an everyday medicine, humdrum, prosaic, a medicine for stubbed toes, quinsies, bunions, and boils …",
+          "… where did he get his money? He had to eat and drink, buy apparatus and chemicals, even pay the poor rate. Where did he get the common coin to meet such unavoidable if prosaic obligations?"
+        ]
+      },
+      {
+        "word": "remedial",
+        "meanings": [
+          "aimed at improving or correcting a situation",
+          "helping people who are slow at learning something"
+        ],
+        "synonyms": [
+          [
+            "amendatory",
+            "corrective",
+            "rectifying",
+            "reformative",
+            "reformatory",
+            "remedying"
+          ]
+        ],
+        "wordSentence": [
+          "Officials have pledged remedial action to repair damaged bridges.",
+          "Thirty percent of the new students need remedial classes in math.",
+          "He's taking a course in remedial reading."
+        ]
+      },
+      {
+        "word": "restive",
+        "meanings": [
+          "(of a person) unable to remain still, silent, or submissive, especially because of boredom or dissatisfaction.\n\"the crowd had been waiting for hours and many were becoming restive\"\nSimilar:\nrestless\nfidgety\nedgy\non edge\ntense\nuneasy\nill at ease",
+          "(of a horse) stubbornly standing still or moving backwards or sideways; refusing to advance.\n\"both their horses became restive at once\""
+        ],
+        "synonyms": [
+          [
+            "balky",
+            "contrary",
+            "contumacious",
+            "defiant",
+            "disobedient",
+            "froward",
+            "incompliant",
+            "insubordinate",
+            "intractable",
+            "obstreperous",
+            "rebel",
+            "rebellious",
+            "recalcitrant",
+            "recusant",
+            "refractory",
+            "ungovernable",
+            "unruly",
+            "untoward",
+            "wayward",
+            "willful",
+            "wilful"
+          ]
+        ],
+        "wordSentence": [
+          "the restive horse threw its head and refused to move when the rider urged it forward",
+          "spent a restive night worrying about the next day's exam"
+        ]
+      },
+      {
+        "word": "sporadic",
+        "meanings": [
+          "not done or happening regularly"
+        ],
+        "synonyms": [
+          [
+            "aperiodic",
+            "casual",
+            "catchy",
+            "choppy",
+            "discontinuous",
+            "episodic",
+            "episodical",
+            "erratic",
+            "fitful",
+            "intermittent",
+            "irregular",
+            "occasional",
+            "spasmodic",
+            "spastic",
+            "spotty",
+            "unsteady"
+          ]
+        ],
+        "wordSentence": [
+          "The law was indeed tightened, prohibiting the employment of illegal aliens on the valid assumption that removing the magnet of jobs is necessary to stem illegal immigration. But enforcement was sporadic at best, and has now virtually ceased.",
+          "I left Madras twenty years ago. Two marriages and three children later I am a different man from the one who left. My return visits have been sporadic. But there is great delight in a homecoming.",
+          "The Bronx begins here physically, and it began here historically as well; this was the site of Jonas Bronck's farmhouse. Not much is known about him: he was a Swedish sea captain who was induced to settle the area by the Dutch West India Company. A peace treaty signed at Bronck's house ended years of sporadic but bloody skirmishes between the Dutch and the Weckquasgeeks.",
+          "Sporadic cases of the disease were reported.",
+          "sporadic loud noises kept startling everyone"
+        ]
+      },
+      {
+        "word": "stigmatize",
+        "meanings": [
+          "to make somebody feel unimportant or as if they are very bad and deserve disapproval"
+        ],
+        "synonyms": [],
+        "wordSentence": [
+          "a legal system that stigmatizes juveniles as criminals"
+        ]
+      },
+      {
+        "word": "undermine",
+        "meanings": [
+          "to make something weaker"
+        ],
+        "synonyms": [],
+        "wordSentence": [
+          "She tried to undermine my authority by complaining about me to my boss.",
+          "The events of the past year have undermined people's confidence in the government."
+        ]
+      },
+      
+      {
+        "word": "weary",
+        "meanings": [
+          "very tired, especially after you have been doing something for a long time"
+        ],
+        "synonyms": [
+          [
+            "all in",
+            "aweary [archaic]",
+            "beat",
+            "beaten",
+            "bleary",
+            "burned-out",
+            "burnt-out",
+            "bushed",
+            "dead",
+            "done",
+            "drained",
+            "exhausted",
+            "fatigued",
+            "jaded",
+            "knackered [British]",
+            "limp",
+            "logy",
+            "loggy",
+            "played out",
+            "pooped [slang]",
+            "prostrate",
+            "spent",
+            "tapped out",
+            "tired",
+            "tuckered (out)",
+            "washed-out",
+            "wearied",
+            "wiped out",
+            "worn",
+            "worn-out"
+          ],
+          [
+            "bore",
+            "jade",
+            "tire"
+          ]
+        ],
+        "wordSentence": [
+          "I would remember the potential for return, all things circling as they do, into something like fullness, small moments of completion that weave together, like Penelope's cloth, doing and undoing themselves by turns, an unfinished pattern that guides a weary traveler home …",
+          "But for the wilted weeds that managed to jut forth in wiry clumps where the mortar was cracked and washed away, the viaduct wall was barren of everything except the affirmation of a weary industrial city's prolonged and triumphant struggle to monumentalize its ugliness.",
+          "Every day for a week Ellsworth showed up to see Clarence and every day Miss Eunice and Mr. George Edward would exchange weary glances and shrugs …"
+        ]
+      },
+      {
+        "word": "zealous",
+        "meanings": [
+          "using great energy and enthusiasm"
+        ],
+        "synonyms": [],
+        "wordSentence": [
+          "I was zealous in my demands on my sisters for promptness in rehearsals. I was passionate, intolerant of small talk, hungry for knowledge, grabby, bossy, precocious.",
+          "Sir Thomas was zealous in the pursuit of recusants, not poachers, and was otherwise an amiable man.",
+          "Zealous in his ministerial labours, blameless in his life and habits, he yet did not appear to enjoy that mental serenity, that inward content, which should be the reward of every sincere Christian and practical philanthropist.",
+          "He had no cause for self-reproach on the score of neglect, or want of thought, for he had been devoted to her service; and yet a hundred little occasions rose up before him, on which he fancied he might have been more zealous, and more earnest, and wished he had been.",
+          "The detective was zealous in her pursuit of the kidnappers."
+        ]
+      }
+    ]
+  }
+}

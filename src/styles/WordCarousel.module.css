@@ -1,0 +1,159 @@
+.word-carousel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh; */
+  }
+  
+  .card {
+    width: 800px;
+    height: 500px;
+    position: relative;
+    perspective: 1000px;
+    transition: transform 0.5s;
+    transform-style: preserve-3d;
+  }
+  
+  .card-side {
+    backface-visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 16px;
+  }
+
+  .flipped{
+    transform: rotateY(180deg);
+  }
+  
+  .card-front {
+    background-color: #f7f7f7;
+    color: #333;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.card-back {
+    background-color: #333;
+    color: #f7f7f7;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .card-back .content {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .progress {
+    margin: 16px 0;
+    width: 100%;
+  }
+  
+  .progressBar {
+    height: 8px;
+    border-radius: 4px;
+    background-color: #c8e6c9;
+    width: 0;
+    transition: width 0.3s ease-in-out;
+  }
+  
+  .word {
+    font-size: 32px;
+    margin-bottom: 46px;
+    margin-top: 15px;
+    text-align: center;
+  }
+  
+  .meanings,
+  .synonyms,
+  .word-sentence {
+      margin: 10px;
+    margin-bottom: 16px;
+  }
+
+  .meanings ul{
+    font-size: larger;
+  }
+  
+  .strong {
+    font-weight: bold;
+  }
+  
+  .synonyms ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .synonyms ul li {
+    margin-bottom: 4px;
+  }
+  
+  .progress {
+    margin-top: 16px;
+    font-size: 14px;
+  }
+
+  .meanings strong {
+    display: block;
+    margin-bottom: 5px;
+    color: white;
+  }
+  
+  .meanings ul {
+    margin: 0;
+    margin-left: 32px;
+    line-height: 1.5;
+    color: white;
+    list-style: numeric;
+  }
+  
+  .synonyms strong {
+    display: block;
+    margin-bottom: 5px;
+    color: white;
+  }
+  
+  .synonyms ul {
+    padding-left: 20px;
+    list-style: disc;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+  }
+  
+  .synonyms li {
+    margin-bottom: 5px;
+    margin-right: 25px;
+  }
+  
+  .word-sentence {
+    color: white;
+    font-style: italic;
+
+  }
+
+    .word-sentence strong {
+        color: white;
+        font-style: normal;
+    }
+
+    .word-sentence ul {
+        margin-left: 32px;
+        margin-top: 10px;
+        padding: 0;
+        list-style: lower-roman;
+
+    }
+  
+  

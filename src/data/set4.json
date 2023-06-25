@@ -1,0 +1,819 @@
+{
+  "set4": {
+    "setNumber": 4,
+    "setName": "set4",
+    "words": [
+      {
+        "word": "abstain",
+        "meanings": [
+          "to stop yourself from doing something that you enjoy",
+          "(in a vote) to say that you are not voting either for or against something"
+        ],
+        "synonyms": [
+          [
+            "abjure",
+            "forbear",
+            "forgo",
+            "forego",
+            "keep (from)",
+            "refrain (from)",
+            "withhold (from)"
+          ]
+        ],
+        "wordSentence": [
+          "Ten members voted for the proposal, six members voted against it, and two abstained."
+        ]
+      },
+      {
+        "word": "approbation",
+        "meanings": [
+          "approval or praise.\n\"a term of approbation\"\nSimilar:\napproval\nacceptance\nassent\nendorsement\nencouragement"
+        ],
+        "synonyms": [
+          [
+            "approval",
+            "blessing",
+            "favor",
+            "imprimatur",
+            "OK",
+            "okay"
+          ]
+        ],
+        "wordSentence": [
+          "The company has even received the approbation of its former critics.",
+          "that plan has the approbation of the school board"
+        ]
+      },
+      {
+        "word": "cherish",
+        "meanings": [
+          "to love somebody/something and look after him/her/it carefully",
+          "to keep a thought, feeling, etc. in your mind and think about it often"
+        ],
+        "synonyms": [
+          [
+            "adore",
+            "love",
+            "worship"
+          ]
+        ],
+        "wordSentence": [
+          "a book cherished by many",
+          "I will always cherish that memory."
+        ]
+      },
+      {
+        "word": "corroborate",
+        "meanings": [
+          "to support a statement, idea, etc. by providing new evidence"
+        ],
+        "synonyms": [
+          [
+            "argue",
+            "attest",
+            "authenticate",
+            "bear out",
+            "certify",
+            "confirm",
+            "substantiate",
+            "support",
+            "validate",
+            "verify",
+            "vindicate"
+          ]
+        ],
+        "wordSentence": [
+          "Studies that are wrong will be superseded by better studies with different results. Studies that are right will be corroborated by other good studies.",
+          "Evidence like this is rarely conclusive, but it can help police corroborate testimony …",
+          "… the great Dr. Woodruff … corroborated my doctor's belief that my two infections had been resolved …",
+          "the witnesses corroborated the policeman's testimony",
+          "my personal experience does not corroborate your faith in the essential goodness of people"
+        ]
+      },
+      {
+        "word": "disparate",
+        "meanings": [
+          "consisting of people or things that are very different from each other in character or quality",
+          "(of two or more things) so markedly different/dissimilar from each other that they cannot be compared"
+        ],
+        "synonyms": [
+          [
+            "different",
+            "dissimilar",
+            "distant",
+            "distinct",
+            "distinctive",
+            "distinguishable",
+            "diverse",
+            "nonidentical",
+            "other",
+            "unalike",
+            "unlike"
+          ]
+        ],
+        "wordSentence": [
+          "First during the nineteen-seventies, but with increasing momentum during the eighties, a loose community of physics researchers had begun to postulate that the disparate small particles that we learned about in high-school science class—electrons, for instance—were actually the varied vibrations of tiny open and closed looped strings.",
+          "The American border with Mexico is among the most economically disparate intersections in the world, but the cities on either side of the port looked almost identical—a spread of humble brick and cinder-block homes dotting a blanket of brown hills.",
+          "I made the French lemon cream tart that Greenspan credits to Hermé and got disparate reactions. An American friend loved its creaminess and felt it had a comfortingly familiar texture; a British friend … said he missed the traditional sharp, gel-like custard.",
+          "Like these imagined cities, identical twins are identical only in their blueprints. By the time they are born, they are already disparate in countless neurological and physiological ways that mostly we cannot see."
+        ]
+      },
+      {
+        "word": "emulate",
+        "meanings": [
+          "to try to do something as well as, or better than, somebody"
+        ],
+        "synonyms": [
+          [
+            "add up (to)",
+            "amount (to)",
+            "come (to)",
+            "correspond (to)",
+            "equal"
+          ]
+        ],
+        "wordSentence": [
+          "If you are talking to someone younger, do not condescend. If you are talking to someone older, back up feelings with facts and never be in such a rush to make your point that you forget the art of listening. And please, no one try to emulate the histrionic, discursive style of any talking heads you see on television.",
+          "Although some schools are postponing new projects because of the faltering economy, others are forging ahead with plans to emulate freshman programs that have long existed at some of the nation's oldest colleges.",
+          "I started out emulating Chandler in that first book, maybe the first book and a half, because I was in my novitiate, and whenever I wasn't clear on what to do I would actively think about Chandler and what Marlow would have done.",
+          "She grew up emulating her sports heroes.",
+          "artists emulating the style of their teachers"
+        ]
+      },
+      {
+        "word": "enervate",
+        "meanings": [
+          "make (someone) feel drained of energy or vitality.\n\"the heat enervated us all\"\nSimilar:\nexhaust\ntire\nfatigue\nweary\nwear out\ndevitalize\ndrain\nsap",
+          "lacking in energy or vitality.\n\"the enervate slightness of his frail form\""
+        ],
+        "synonyms": [
+          [
+            "castrate",
+            "damp",
+            "dampen",
+            "deaden",
+            "dehydrate",
+            "desiccate",
+            "devitalize",
+            "geld",
+            "lobotomize",
+            "petrify"
+          ]
+        ],
+        "wordSentence": [
+          "a lifetime of working in dreary jobs had enervated his very soul",
+          "the surgery really enervated me for weeks afterwards"
+        ]
+      },
+      {
+        "word": "ephemeral",
+        "meanings": [
+          "lasting or used for only a short period of time"
+        ],
+        "synonyms": [
+          [
+            "brief",
+            "deciduous",
+            "evanescent",
+            "flash",
+            "fleeting",
+            "fugacious",
+            "fugitive",
+            "impermanent",
+            "momentary",
+            "passing",
+            "short-lived",
+            "temporary",
+            "transient",
+            "transitory"
+          ]
+        ],
+        "wordSentence": [
+          "… several rather inflated pages of material about an ephemeral love affair Fitzgerald allegedly had with an English woman named Bijou …",
+          "As a consequence North Africa was easily reconquered by the Byzantine emperor in the 530s, and the Vandals' influence on North African development was ephemeral and negligible.",
+          "This accounts for the peculiar sense most observers have that the ephemeral, sensationalist, polymorphous, magpie popular culture of the United States is at bottom remarkably conservative …",
+          "the autumnal blaze of colors is always to be treasured, all the more so because it is so ephemeral"
+        ]
+      },
+      {
+        "word": "fervid",
+        "meanings": [
+          "intensely enthusiastic or passionate, especially to an excessive degree.\n\"his fervid protestations of love\"\nSimilar:\nfervent\nardent\npassionate\nimpassioned\nintense\nvehement",
+          "LITERARY\nhot, burning, or glowing."
+        ],
+        "synonyms": [
+          [
+            "ardent",
+            "blazing",
+            "burning",
+            "charged",
+            "demonstrative",
+            "emotional",
+            "fervent",
+            "feverish",
+            "fiery",
+            "flaming",
+            "glowing",
+            "hot-blooded",
+            "impassioned",
+            "incandescent",
+            "intense",
+            "passional",
+            "passionate",
+            "perfervid",
+            "red-hot",
+            "religious",
+            "superheated",
+            "torrid",
+            "vehement",
+            "warm",
+            "warm-blooded"
+          ]
+        ],
+        "wordSentence": [
+          "at the school board meeting the librarian delivered a fervid speech defending the classic novel against would-be censors",
+          "the fervid sands of the desert"
+        ]
+      },
+      {
+        "word": "garrulous",
+        "meanings": [
+          "talking a lot, mostly about unimportant things"
+        ],
+        "synonyms": [
+          [
+            "blabby",
+            "chatty",
+            "conversational",
+            "gabby",
+            "loquacious",
+            "motormouthed",
+            "mouthy",
+            "talkative",
+            "talky"
+          ]
+        ],
+        "wordSentence": [
+          "Salman grew ever more garrulous as the yellow liquid in the bottle went down; Baal couldn't recall when he'd last heard anyone talk up such a storm.",
+          "To an American reader in 1982, confronted with this garrulous, indefatigably quirky, I'm-just-typing-on-yellow-paper-and-associating-ideas-and-memories prose work of 1936, such a judgment, by a presumably informed person, seems preposterous.",
+          "He was not garrulous by any means. On the contrary, there was a fine reserve in his manner toward the entire domestic economy of his life which was all that is comprehended by the popular term, gentlemanly.",
+          "He became more garrulous after drinking a couple of beers.",
+          "a garrulous boy who was in constant trouble for talking out of turn"
+        ]
+      },
+      {
+        "word": "incendiary",
+        "meanings": [
+          "that causes a fire"
+        ],
+        "synonyms": [
+          [
+            "inflammatory",
+            "seditious"
+          ],
+          [
+            "arsonist",
+            "firebug",
+            "torch"
+          ]
+        ],
+        "wordSentence": [
+          "While visual effects experts work with images, mechanical effects experts work with machinery, tools, incendiary devices, and other equipment to manipulate physical events during live-action filming.",
+          "In the mid-Eighties, heavy-metal music was the incendiary genre being demonized …",
+          "The only caveat … is to know one's own sensitivity to chili pepper heat. If a small or moderate dose of capsicum (the incendiary chemical component in chilies) makes you dash for a glass of ice water, this menu is not going to be fun for you."
+        ]
+      },
+      {
+        "word": "inimical",
+        "meanings": [
+          "harmful to something; making it difficult for something to happen or exist",
+          "not friendly, hostile"
+        ],
+        "synonyms": [
+          [
+            "adversarial",
+            "adversary",
+            "antagonistic",
+            "antipathetic",
+            "hostile",
+            "inhospitable",
+            "jaundiced",
+            "mortal",
+            "negative",
+            "unfriendly",
+            "unsympathetic"
+          ]
+        ],
+        "wordSentence": [
+          "received an inimical response rather than the anticipated support",
+          "laws designed to enhance national security that some regard as inimical to cherished freedoms"
+        ]
+      },
+      {
+        "word": "intimate",
+        "meanings": [
+          "(used about people) having a very close relationship",
+          "very private and personal"
+        ],
+        "synonyms": [
+          [
+            "bosom",
+            "buddy-buddy",
+            "chummy",
+            "close",
+            "especial",
+            "familiar",
+            "friendly",
+            "inseparable",
+            "inward",
+            "near",
+            "thick",
+            "tight"
+          ],
+          [
+            "alter ego",
+            "amigo",
+            "buddy",
+            "chum",
+            "compadre",
+            "comrade",
+            "confidant",
+            "confidante",
+            "crony",
+            "familiar",
+            "friend",
+            "mate [chiefly British]",
+            "musketeer",
+            "pal"
+          ],
+          [
+            "allude",
+            "hint",
+            "imply",
+            "indicate",
+            "infer",
+            "insinuate",
+            "suggest"
+          ]
+        ],
+        "wordSentence": [
+          "The dining room is plush and intimate, set off by some of the most extravagant floral arrangements in the city.",
+          "When a little-known writer undertakes a manifesto—a statement, after all, of sober purpose and principle—it is likely also to be a cri de coeur, and its reasoned argument will derive from the intimate wounds of autobiography.",
+          "The company would sit around after dinner in the lavishly plain living room or wander out to the pool for more intimate conversation …"
+        ]
+      },
+      {
+        "word": "invigorate",
+        "meanings": [
+          "to make somebody feel healthy, fresh and full of energy"
+        ],
+        "synonyms": [
+          [
+            "amp (up)",
+            "animate",
+            "brace",
+            "energize",
+            "enliven",
+            "fillip",
+            "fire",
+            "ginger (up)",
+            "jazz (up)",
+            "juice up",
+            "jump-start",
+            "liven (up)",
+            "pep (up)",
+            "quicken",
+            "spike",
+            "stimulate",
+            "vitalize",
+            "vivify",
+            "zip (up)"
+          ]
+        ],
+        "wordSentence": [
+          "A brisk walk in the cool morning air always invigorates me.",
+          "He was invigorated by the positive feedback.",
+          "The mayor has plans to invigorate the downtown economy."
+        ]
+      },
+      {
+        "word": "mitigate",
+        "meanings": [
+          "to make something less serious, painful, unpleasant, etc."
+        ],
+        "synonyms": [
+          [
+            "allay",
+            "alleviate",
+            "assuage",
+            "ease",
+            "help",
+            "mollify",
+            "palliate",
+            "relieve",
+            "soothe"
+          ]
+        ],
+        "wordSentence": [
+          "At the far end of the room is a sliding glass door, taped with an X to mitigate shattering. The framing is flimsy, and rattles from mortar rounds even a half mile away.",
+          "… a genre novel whose inevitable cinematic ending doesn't mitigate the visceral and emotional power of what has come before. It lingers in the memory like a very bad dream.",
+          "For 65 holes Norman dominated the classic rolling fairways and small, subtle greens of Olympic … with driving and iron play so solid that it mitigated mediocre putting.",
+          "Emergency funds are being provided to help mitigate the effects of the disaster.",
+          "medicines used to mitigate a patient's suffering"
+        ]
+      },
+      {
+        "word": "obsolete",
+        "meanings": [
+          "no longer useful because something better has been invented"
+        ],
+        "synonyms": [
+          [
+            "antiquated",
+            "archaic",
+            "dated",
+            "démodé",
+            "demoded",
+            "fossilized",
+            "kaput",
+            "kaputt",
+            "medieval",
+            "mediaeval",
+            "moribund",
+            "mossy",
+            "moth-eaten",
+            "neolithic",
+            "Noachian",
+            "outdated",
+            "outmoded",
+            "out-of-date",
+            "outworn",
+            "passé",
+            "prehistoric",
+            "prehistorical",
+            "rusty",
+            "Stone Age",
+            "superannuated"
+          ]
+        ],
+        "wordSentence": [
+          "It may not be welcome news in her home state of Pennsylvania, but chemist Cynthia Kuper could help make steel obsolete. Experimenting with carbon nanotubes, structures a few atoms wide but 100 times stronger and much lighter than steel, Kuper calls her work an \"amusement park discovery.\"",
+          "He exercised a right so rare, at this the fag-end of the century, as to be practically obsolete. The most fundamental right of all. The right to be the good guy.",
+          "I never had parents, really. My mom was gone, my dad was at work or with his girlfriends, we had baby-sitters. My parents were obsolete."
+        ]
+      },
+      {
+        "word": "opaque",
+        "meanings": [
+          "that you cannot see through",
+          "difficult to understand; not clear"
+        ],
+        "synonyms": [
+          [
+            "ambiguous",
+            "arcane",
+            "cryptic",
+            "dark",
+            "deep",
+            "Delphic",
+            "double-edged",
+            "elliptical",
+            "elliptic",
+            "enigmatic",
+            "enigmatical",
+            "equivocal",
+            "fuliginous",
+            "inscrutable",
+            "murky",
+            "mysterious",
+            "mystic",
+            "nebulous",
+            "obscure",
+            "occult"
+          ]
+        ],
+        "wordSentence": [
+          "In the opening hour, a group of strangers receive a maddeningly opaque cell-phone summons to join a secret cross-country race with a $32 million prize. The thing is, the summons can also be a threat (one competitor's wife is possibly being held captive), and the consequences of falling behind are murderous.",
+          "The reality facing Rory Stewart was that he was sent into a collapsed rural region in a country of which he knew almost nothing, and in which he had to find his way through a maze of opaque tribal and religious relationships.",
+          "Arborio rice, the kind that grows in the Po Valley and gave rise to the wonderful dish risotto, has a tiny opaque white pearl on the inside that remains al dente, and starch on the outside that the grains release during cooking, making a creamy sauce.",
+          "the opaque water of the muddy river",
+          "somehow listeners seem to connect with the songwriter, despite his deeply personal, often opaque lyrics"
+        ]
+      },
+      {
+        "word": "paradigmatic",
+        "meanings": [],
+        "synonyms": [],
+        "wordSentence": [
+          "And the paradigm of a thing to be philosophical about is death.",
+          "Such problems drive home a critical flaw in the paradigm of energy independence—namely, that energy isn't a zero-sum game anymore.",
+          "That the biomedical paradigm of single cause and single disease was a chimera was well understood by even its most vigorous advocates.",
+          "Her recent book provides us with a new paradigm for modern biography."
+        ]
+      },
+      {
+        "word": "pedantic",
+        "meanings": [
+          "too worried about rules or details"
+        ],
+        "synonyms": [],
+        "wordSentence": [
+          "It may seem pedantic to harp on what looks like mere procedure, but this is one case where the process is the forest.",
+          "Yet not since Kenneth Roberts has anyone written of early New England life in such vivid and convincing detail. (The minor inaccuracies will stir only the pedantic.)",
+          "What I'm objecting to is that picture books are judged from a particular, pedantic point of view vis-à-vis their relation to children—and I insist that a picture book is much more.",
+          "She is looking for the will, or for the diary; always looking for herself in history, the self the pious, pedantic Tolstoyans would disinherit and deny.  …"
+        ]
+      },
+      {
+        "word": "placid",
+        "meanings": [
+          "(used about a person or an animal) calm and not easily excited"
+        ],
+        "synonyms": [
+          [
+            "calm",
+            "collected",
+            "composed",
+            "cool",
+            "coolheaded",
+            "equal",
+            "level",
+            "limpid",
+            "peaceful",
+            "possessed",
+            "recollected",
+            "sedate",
+            "self-composed",
+            "self-possessed",
+            "serene",
+            "smooth",
+            "together",
+            "tranquil",
+            "undisturbed",
+            "unperturbed",
+            "unruffled",
+            "unshaken",
+            "untroubled",
+            "unworried"
+          ]
+        ],
+        "wordSentence": [
+          "a person with a sunny, placid disposition",
+          "the placid surface of the lake"
+        ]
+      },
+      {
+        "word": "polemical",
+        "meanings": [
+          "expressing or constituting a strongly critical attack on or controversial opinion about someone or something.\n\"a polemical essay\"\nSimilar:\ncritical\nhostile\nbitter\npolemic\nvirulent\nvitriolic\nvenomous"
+        ],
+        "synonyms": [
+          [
+            "argumentative",
+            "contentious",
+            "controversial",
+            "disputatious",
+            "quarrelsome",
+            "scrappy"
+          ]
+        ],
+        "wordSentence": [
+          "during the Middle Ages even theologians could be surprisingly polemical in their writings",
+          "an unnecessarily polemical look at the supposed incompatibility between science and religion"
+        ]
+      },
+      {
+        "word": "precipitate",
+        "meanings": [
+          "to make something, especially something bad, happen suddenly or sooner than it should",
+          "to suddenly force somebody/something into a particular state or condition",
+          "(used about an action or a decision) happening very quickly or suddenly and usually without enough care and thought",
+          "a solid substance that has been separated from a liquid in a chemical process"
+        ],
+        "synonyms": [
+          [
+            "pour",
+            "rain",
+            "storm"
+          ],
+          [
+            "aftereffect",
+            "aftermath",
+            "backwash",
+            "child",
+            "conclusion",
+            "consequence",
+            "corollary",
+            "development",
+            "effect",
+            "fate",
+            "fruit",
+            "issue",
+            "outcome",
+            "outgrowth",
+            "product",
+            "result",
+            "resultant",
+            "sequel",
+            "sequence",
+            "upshot"
+          ],
+          [
+            "cursory",
+            "drive-by",
+            "flying",
+            "gadarene",
+            "hasty",
+            "headlong",
+            "helter-skelter",
+            "hurried",
+            "overhasty",
+            "pell-mell",
+            "precipitous",
+            "rash",
+            "rushed"
+          ]
+        ],
+        "wordSentence": [
+          "When Achilles is informed by his mother, the sea-goddess Thetis, that vanquishing Hector on the battlefield will precipitate his own demise, he unhesitatingly opts for the gusto.",
+          "The vast room darkens. The videotape … begins on two identical screens set high above the nave. The soaring lyrics of LeeAnn Rimes's \"How Do I Live (Without You)\" precipitate a collective tension and welling, repressed tearfulness.",
+          "Her death precipitated a family crisis."
+        ]
+      },
+      {
+        "word": "profundity",
+        "meanings": [
+          "great depth of insight or knowledge.\n\"the simplicity and profundity of the message\"\nSimilar:\nwisdom\n(deep) insight\nintelligence\nsagacity\nacuity\ndepth",
+          "great depth or intensity of a state, quality, or emotion.\n\"the profundity of her misery\"\nSimilar:\nintensity\ndepth\nextremity\nseverity\nkeenness\nprofoundness",
+          "a statement or idea that shows great knowledge or insight.\nplural noun: profundities\n\"such well-articulated profundities as ‘You're some kinda woman.’\""
+        ],
+        "synonyms": [
+          [
+            "deepness",
+            "depth",
+            "profoundness"
+          ]
+        ],
+        "wordSentence": [
+          "the profundity of his thoughts",
+          "Her books are a mixture of playfulness and profundity.",
+          "the depth and profundity of her feelings"
+        ]
+      },
+      {
+        "word": "prophetic",
+        "meanings": [],
+        "synonyms": [
+          [
+            "predictive"
+          ]
+        ],
+        "wordSentence": [
+          "the prophetic books of the Old Testament",
+          "in retrospect, those lower-than-expected sales numbers were a prophetic indicator of the financial trouble the company would soon be in"
+        ]
+      },
+      {
+        "word": "prudent",
+        "meanings": [
+          "sensible and careful when making judgements and decisions; avoiding unnecessary risks"
+        ],
+        "synonyms": [
+          [
+            "discreet",
+            "intelligent",
+            "judgmatic",
+            "judgmatical",
+            "judicious"
+          ]
+        ],
+        "wordSentence": [
+          "An endless war is not always the most moral or the most prudent course of action.",
+          "We missed the Mass for St. Rose of Lima, who, though prudent, had failed to be martyred and was therefore only second-string.",
+          "Prudent burners take several precautions. Burning one of two bordering fields, they wet the edge of one or the other, usually the one being burned, to prevent the flames from jumping.",
+          "Since the inexplicable power of a magnetized needle to \"find\" the north smacked of black magic …  . For many decades the prudent sea captain consulted his compass secretly."
+        ]
+      },
+      {
+        "word": "punctilious",
+        "meanings": [
+          "showing great attention to detail or correct behaviour.\n\"he was punctilious in providing every amenity for his guests\"\nSimilar:\nmeticulous\nconscientious\ncareful\ndiligent\nattentive\nultra-careful"
+        ],
+        "synonyms": [
+          [
+            "ceremonious",
+            "correct",
+            "decorous",
+            "formal",
+            "nice",
+            "proper",
+            "starchy",
+            "stiff",
+            "stiff-necked",
+            "stilted"
+          ]
+        ],
+        "wordSentence": [
+          "She's very punctilious about grammar.",
+          "old-money aristocrats with a punctilious sense of propriety"
+        ]
+      },
+      {
+        "word": "recondite",
+        "meanings": [
+          "(used about facts, subjects, etc.) little known about or understood by people"
+        ],
+        "synonyms": [
+          [
+            "abstruse",
+            "arcane",
+            "deep",
+            "esoteric",
+            "hermetic",
+            "hermetical",
+            "profound"
+          ]
+        ],
+        "wordSentence": [
+          "geochemistry is a recondite subject"
+        ]
+      },
+      {
+        "word": "scrupulous",
+        "meanings": [
+          "very careful or paying great attention to detail",
+          "careful to do what is right or honest"
+        ],
+        "synonyms": [
+          [
+            "conscientious",
+            "conscionable",
+            "ethical",
+            "honest",
+            "honorable",
+            "just",
+            "moral",
+            "principled"
+          ]
+        ],
+        "wordSentence": [
+          "While many assume that a conservative reading of the Constitution will lead inevitably to a conservative interpretation, Amar has argued, in scholarly articles and in a previous book, \"The Bill of Rights,\" that paying scrupulous attention to the text, history and structure of the Constitution often reveals support for liberal outcomes.",
+          "Most clients praise the lawyer effusively. Rubenstein declares that Grubman never represents both parties in any one matter, is scrupulous in disclosing his relations to all his clients and abides by the conflict rules of the legal profession.",
+          "Tax-shelter proliferation has reached such epidemic proportions that it has actually spurred a backlash among the more conscientious members of the tax profession. A few scrupulous tax lawyers have anonymously leaked details of shelter schemes to the IRS.",
+          "She was always scrupulous about her work."
+        ]
+      },
+      {
+        "word": "tranquil",
+        "meanings": [
+          "quiet and peaceful"
+        ],
+        "synonyms": [
+          [
+            "arcadian",
+            "calm",
+            "hushed",
+            "peaceful",
+            "placid",
+            "quiet",
+            "restful",
+            "serene",
+            "still",
+            "stilly"
+          ]
+        ],
+        "wordSentence": [
+          "the house was once again tranquil after the kids moved outside to play",
+          "though she should have been upset, she felt oddly tranquil upon learning that she would not be receiving the scholarship"
+        ]
+      },
+      {
+        "word": "vacillate",
+        "meanings": [
+          "to keep changing your ideas or opinions about something, especially in a way that annoys other people"
+        ],
+        "synonyms": [
+          [
+            "balance",
+            "dither",
+            "falter",
+            "halt",
+            "hang back",
+            "hesitate",
+            "scruple",
+            "shilly-shally",
+            "stagger",
+            "teeter",
+            "waver",
+            "wobble",
+            "wabble"
+          ]
+        ],
+        "wordSentence": [
+          "She has vacillated on this issue.",
+          "vacillated for so long that someone else stepped in and made the decision"
+        ]
+      }
+    ]
+  }
+}

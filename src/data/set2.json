@@ -1,0 +1,835 @@
+{
+  "set2": {
+    "setNumber": 2,
+    "setName": "set2",
+    "words": [
+      {
+        "word": "adulterate",
+        "meanings": [
+          "to make food or drink less pure or of lower quality by adding something to it"
+        ],
+        "synonyms": [
+          [
+            "cut",
+            "dilute",
+            "extend",
+            "lace",
+            "sophisticate",
+            "thin",
+            "water down",
+            "weaken"
+          ],
+          [
+            "adulterated",
+            "alloyed",
+            "contaminated",
+            "dilute",
+            "diluted",
+            "impure",
+            "polluted",
+            "tainted",
+            "thinned",
+            "weakened"
+          ]
+        ],
+        "wordSentence": [
+          "The company is accused of adulterating its products with cheap additives.",
+          "the company was fined for adulterating its “all beef” frankfurters with cereal",
+          "the pharmacist was convicted of selling adulterate drugs in order to maximize profits",
+          "caught red-handed in what he claimed was his first adulterate encounter"
+        ]
+      },
+      {
+        "word": "advocate",
+        "meanings": [
+          "to recommend or say that you support a particular plan or action",
+          "a person who supports or speaks in favour of somebody or of a public plan or action",
+          "a lawyer who defends somebody in a court of law"
+        ],
+        "synonyms": [
+          [
+            "advocator",
+            "apostle",
+            "backer",
+            "booster",
+            "champion",
+            "espouser",
+            "exponent",
+            "expounder",
+            "friend",
+            "gospeler",
+            "gospeller",
+            "herald",
+            "hierophant",
+            "high priest",
+            "paladin",
+            "promoter",
+            "proponent",
+            "protagonist",
+            "supporter",
+            "true believer",
+            "tub-thumper",
+            "white knight"
+          ],
+          [
+            "back",
+            "champion",
+            "endorse",
+            "indorse",
+            "patronize",
+            "plump (for)",
+            "plunk (for)",
+            "plonk (for)",
+            "support"
+          ]
+        ],
+        "wordSentence": [
+          "… two of nanotechnology's biggest advocates square off on a fundamental question that will dramatically affect the future development of this field.",
+          "Ms. Hart was familiar with local medical-review policies from her work as a patient advocate.",
+          "a passionate advocate of civil rights"
+        ]
+      },
+      {
+        "word": "aggrandize",
+        "meanings": [
+          "to increase the power, rank or wealth of a person or country"
+        ],
+        "synonyms": [
+          [
+            "canonize",
+            "deify",
+            "dignify",
+            "elevate",
+            "ennoble",
+            "enshrine",
+            "ensky",
+            "enthrone",
+            "exalt",
+            "glorify",
+            "magnify"
+          ]
+        ],
+        "wordSentence": [
+          "a movie that aggrandizes the bad guys and makes the cops look like dopes",
+          "a generous grant, enabling the library to significantly aggrandize its collection"
+        ]
+      },
+      {
+        "word": "alacrity",
+        "meanings": [
+          "great willingness, eagerness or enthusiasm"
+        ],
+        "synonyms": [
+          [
+            "amenability",
+            "gameness",
+            "goodwill",
+            "obligingness",
+            "willingness"
+          ]
+        ],
+        "wordSentence": [
+          "Surely one of the most striking features of human dynamics is the alacrity with which those who have been oppressed will oppress whomever they can once the opportunity presents itself.",
+          "Every Disney worker I spoke to, from ticket sellers to gardeners sprucing up already-immaculate flower beds, knew the answer to my questions and responded with smiling alacrity.",
+          "… when he entered the drawing room before dinner, the buzz of discussion was high between Tom, Maria, and Mr. Yates; and Mr. Rushworth stepped forward with great alacrity to tell him the agreeable news.",
+          "She accepted the invitation with an alacrity that surprised me.",
+          "having just acquired his driver's license that morning, the teen agreed with alacrity to drive his cousin to the airport"
+        ]
+      },
+      {
+        "word": "ameliorate",
+        "meanings": [
+          "to make something better"
+        ],
+        "synonyms": [
+          [
+            "amend",
+            "better",
+            "enhance",
+            "enrich",
+            "help",
+            "improve",
+            "meliorate",
+            "perfect",
+            "refine",
+            "upgrade"
+          ]
+        ],
+        "wordSentence": [
+          "The disparate impact of the risk imposed by the \"loser pays\" rule can be ameliorated. Indeed, there are features of the British legal system which have led some observers to find the rule … to be considerably more benign to poorer litigants.",
+          "And, after all, some illnesses are psychogenic. Many can be at least ameliorated by a positive cast of mind.",
+          "trying to ameliorate the suffering of people who have lost their jobs",
+          "This medicine should help ameliorate the pain."
+        ]
+      },
+      {
+        "word": "amenable",
+        "meanings": [
+          "happy to accept something; willing to be influenced by somebody/something"
+        ],
+        "synonyms": [
+          [
+            "disposed",
+            "fain",
+            "game",
+            "glad",
+            "inclined",
+            "minded",
+            "ready",
+            "willing"
+          ]
+        ],
+        "wordSentence": [
+          "While no one yet knows how wide … margins can go, contracts establish royalty rates and project them far into the future. Many agents have thus pushed for a term of license of just a few years. Publishers, however, are not always amenable.",
+          "Some of the newer findings address a vexing flaw in the sole noninvasive screening test for detecting microscopic prostate cancer, the form most amenable to a cure.",
+          "whatever you decide to do, I'm amenable—just let me know",
+          "our normally balky cat becomes the most amenable of creatures when confronted with the strange environment of the veterinary clinic"
+        ]
+      },
+      {
+        "word": "anachronistic",
+        "meanings": [],
+        "synonyms": [],
+        "wordSentence": [
+          "In our modern world of pre-made, rush-rush, tightly scheduled lives, Amanda Blake Soule is an anachronism. At their home in coastal Maine, her family of six makes most of what they use—everything from bread and crafts to clothes and toys.",
+          "The spy thriller is a genre that arguably should have died fifteen years ago, and its continued popularity seems an anachronism at first glance.",
+          "With few exceptions, work opportunities for older people diminished after the Civil War as the United States metamorphosed into an urban-industrial order, inaugurating a second phase in the history of retirement. The village blacksmith became an anachronism as the craftsman retreated before the new mass-production industries.",
+          "But Shakespeare may have drifted into anachronism here. According to Rogers, food in France at the time of Agincourt was probably just as meaty and unsophisticated as it was in England."
+        ]
+      },
+      {
+        "word": "audacious",
+        "meanings": [
+          "willing to take risks or do something shocking"
+        ],
+        "synonyms": [
+          [
+            "arch",
+            "bold",
+            "bold-faced",
+            "brash",
+            "brassbound",
+            "brassy",
+            "brazen",
+            "brazen-faced",
+            "cheeky",
+            "cocksure",
+            "cocky",
+            "fresh",
+            "impertinent",
+            "impudent",
+            "insolent",
+            "nervy",
+            "sassy",
+            "saucy",
+            "wise"
+          ]
+        ],
+        "wordSentence": [
+          "Whatever made him think his audacious fiction would sell—especially after a lifetime of literary marginalization—is a mystery, but he has certainly been vindicated. With a rush of work that he did not begin publishing until he was in his forties, he won literary fame in Europe and Latin America.",
+          "This is an audacious claim, and Kramer anticipates, even encourages, the controversy it might provoke.",
+          "… Morgan Pressel, the top-ranked female amateur in the country, has charted a less audacious course. A 17-year-old scrapper who gained prominence by tying for second at the U.S. Women's Open in June, Pressel is satisfied with taking on and whipping her own kind.",
+          "… he owns and operates a seductively spacious jazz club. But that's his day job, his cover. He executes his audacious midnight burglaries outside of the city, working solo, mapping out every detail so that nothing can go wrong, then returning like a phantom."
+        ]
+      },
+      {
+        "word": "avaricious",
+        "meanings": [],
+        "synonyms": [
+          [
+            "acquisitive",
+            "avid",
+            "coveting",
+            "covetous",
+            "grabby",
+            "grasping",
+            "greedy",
+            "mercenary",
+            "moneygrubbing",
+            "rapacious"
+          ]
+        ],
+        "wordSentence": [
+          "an avaricious scheme to con the elderly couple out of thousands of dollars"
+        ]
+      },
+      {
+        "word": "banal",
+        "meanings": [
+          "not original or interesting"
+        ],
+        "synonyms": [
+          [
+            "flat",
+            "insipid",
+            "milk-and-water",
+            "namby-pamby",
+            "watery",
+            "wishy-washy"
+          ]
+        ],
+        "wordSentence": [
+          "The more banal, the more commonplace, the more predictable, the triter, the staler, the dumber, the better.",
+          "The instructor's script is banal, relying heavily on images of waves on a beach or clouds in the sky.",
+          "… it seemed to me that computers have been used in ways that are salutary, in ways that are dangerous, banal and cruel, and in ways that seem harmless if a little silly.",
+          "He made some banal remarks about the weather.",
+          "The writing was banal but the story was good."
+        ]
+      },
+      {
+        "word": "benign",
+        "meanings": [
+          "(used about people) kind or gentle",
+          "(used about a disease, etc.) not dangerous"
+        ],
+        "synonyms": [
+          [
+            "anodyne",
+            "harmless",
+            "hurtless",
+            "innocent",
+            "innocuous",
+            "inoffensive",
+            "safe",
+            "white"
+          ]
+        ],
+        "wordSentence": [
+          "… substituting such benign power sources as the hybrid, the fuel cell, and the electric motor in place of … the internal-combustion engine.",
+          "Rather than a benign fairytale creature that delivers babies, the marabou stork is an ugly, viciously predatory African bird that preys on flamingos …",
+          "… her pulled-back black hair had gone gray in strange distinct bands, but she seemed much as he remembered her, solid and energetic, with a certain benign defiance.",
+          "When she chose to smile on me, I always wanted to thank her. The action was so graceful and inclusively benign."
+        ]
+      },
+      {
+        "word": "brazen",
+        "meanings": [
+          "without embarrassment, especially in a way which shocks people"
+        ],
+        "synonyms": [
+          [
+            "arch",
+            "audacious",
+            "bold",
+            "bold-faced",
+            "brash",
+            "brassbound",
+            "brassy",
+            "brazen-faced",
+            "cheeky",
+            "cocksure",
+            "cocky",
+            "fresh",
+            "impertinent",
+            "impudent",
+            "insolent",
+            "nervy",
+            "sassy",
+            "saucy",
+            "wise"
+          ],
+          [
+            "beard",
+            "brave",
+            "breast",
+            "confront",
+            "dare",
+            "defy",
+            "face",
+            "outbrave",
+            "outface"
+          ]
+        ],
+        "wordSentence": [
+          "He exhibited a brazen disregard for other people's feelings.",
+          "a brazen demand for special treatment just because she's rich",
+          "a filmmaker willing to brazen the criticism that such a violent film was sure to provoke"
+        ]
+      },
+      {
+        "word": "calumny",
+        "meanings": [
+          "a false statement made about somebody in order to damage their reputation",
+          "the act of making such a false statement about somebody"
+        ],
+        "synonyms": [
+          [
+            "aspersing",
+            "blackening",
+            "calumniation",
+            "character assassination",
+            "defamation",
+            "defaming",
+            "libel",
+            "libeling",
+            "libelling",
+            "maligning",
+            "slander",
+            "smearing",
+            "traducing",
+            "vilification",
+            "vilifying"
+          ]
+        ],
+        "wordSentence": [
+          "They uttered calumnies against him.",
+          "He was the target of calumny for his unpopular beliefs."
+        ]
+      },
+      {
+        "word": "candid",
+        "meanings": [
+          "saying exactly what you think"
+        ],
+        "synonyms": [
+          [
+            "direct",
+            "forthcoming",
+            "forthright",
+            "foursquare",
+            "frank",
+            "free-spoken",
+            "freehearted",
+            "honest",
+            "open",
+            "openhearted",
+            "out-front",
+            "outspoken",
+            "plain",
+            "plainspoken",
+            "straight",
+            "straightforward",
+            "unguarded",
+            "unreserved",
+            "up-front"
+          ]
+        ],
+        "wordSentence": [
+          "If Bart Knaggs had been totally candid, he would have told me that when his prospective father-in-law, who was a doctor, had heard that the cancer had moved into my lungs, he said to Bart, \"Well, your friend is dead.\"",
+          "To be candid, I have wondered whether it is fair to write about a man for whom I cannot help but feel a real distaste.",
+          "There are candid … anecdotes of open-heart surgery.",
+          "He was quite candid about his past.",
+          "She gave us her candid opinion on the matter."
+        ]
+      },
+      {
+        "word": "castigate",
+        "meanings": [
+          "to criticize, strongly oppose or punish somebody/something severely"
+        ],
+        "synonyms": [
+          [
+            "baste",
+            "bawl out",
+            "berate",
+            "call down",
+            "chastise",
+            "chew out",
+            "dress down",
+            "flay",
+            "hammer",
+            "jaw",
+            "keelhaul",
+            "lambaste",
+            "lambast",
+            "lecture",
+            "rag",
+            "rail (at or against)",
+            "rant (at)",
+            "rate",
+            "ream (out)",
+            "rebuke",
+            "reprimand",
+            "reproach",
+            "scold",
+            "score",
+            "tongue-lash",
+            "upbraid"
+          ]
+        ],
+        "wordSentence": [
+          "The author castigated the prime minister as an ineffective leader.",
+          "castigated him for his constant tardiness"
+        ]
+      },
+      {
+        "word": "caustic",
+        "meanings": [
+          "(used about a substance) able to burn or destroy things by chemical action",
+          "critical in a cruel way"
+        ],
+        "synonyms": [
+          [
+            "acerb",
+            "acerbic",
+            "acid",
+            "acidic",
+            "acidulous",
+            "acrid",
+            "barbed",
+            "biting",
+            "corrosive",
+            "cutting",
+            "mordant",
+            "pungent",
+            "sarcastic",
+            "sardonic",
+            "satiric",
+            "satirical",
+            "scalding",
+            "scathing",
+            "sharp",
+            "smart-aleck",
+            "smart-alecky",
+            "smart-mouthed",
+            "snarky",
+            "tart"
+          ]
+        ],
+        "wordSentence": [
+          "His [Roosevelt's] caustic cousin, Alice Roosevelt Longworth, called him a sissy and a mama's boy.",
+          "It was Schuyler's gift for satire and his caustic wit that distinguished his writings and led to his nickname, the Black Mencken.",
+          "Albert quailed before those caustic pronouncements, he shuddered and blanched and felt his stomach drop like a croquette into a vat of hot grease.",
+          "The chemical was so caustic that it ate through the pipes.",
+          "She wrote a caustic report about the decisions that led to the crisis."
+        ]
+      },
+      {
+        "word": "construe",
+        "meanings": [
+          "to understand the meaning of something in a particular way"
+        ],
+        "synonyms": [
+          [
+            "clarify",
+            "clear (up)",
+            "demonstrate",
+            "demystify",
+            "elucidate",
+            "explain",
+            "explicate",
+            "expound",
+            "get across",
+            "illuminate",
+            "illustrate",
+            "interpret",
+            "simplify",
+            "spell out",
+            "unriddle"
+          ]
+        ],
+        "wordSentence": [
+          "The way the court construes various words has changed over time.",
+          "the role of the justices of the Supreme Court in construing the constitution"
+        ]
+      },
+      {
+        "word": "contrite",
+        "meanings": [
+          "ashamed about something wrong that you have said or done; remorseful"
+        ],
+        "synonyms": [
+          [
+            "apologetic",
+            "compunctious",
+            "penitent",
+            "regretful",
+            "remorseful",
+            "repentant",
+            "rueful",
+            "sorry"
+          ]
+        ],
+        "wordSentence": [
+          "Allbaugh apologized, though it was clear he was hardly contrite.",
+          "… Teddy was immediately contrite. \"That was stupid of me. Forgive me.\"",
+          "At the airport, the meter registers nine pounds, and of course he had said six or seven. I have a sense now of his feeling somewhat contrite, or perhaps only abashed.",
+          "… for days afterward, afraid of himself and worried about his sanity, he would be contrite and terribly ashamed.",
+          "being contrite is not enough to spare you an arrest if you're caught shoplifting"
+        ]
+      },
+      {
+        "word": "convoluted",
+        "meanings": [
+          "(an argument, story or sentence) extremely complicated and difficult to follow"
+        ],
+        "synonyms": [
+          [
+            "baroque",
+            "byzantine",
+            "complex",
+            "complicate",
+            "complicated",
+            "daedal",
+            "elaborate",
+            "intricate",
+            "involute",
+            "involved",
+            "knotty",
+            "labyrinthian",
+            "labyrinthine",
+            "sophisticated",
+            "tangled"
+          ]
+        ],
+        "wordSentence": [
+          "At base stands a profound respect for the integrity of history and the complex and convoluted relationship between present and the past.",
+          "They are pictures of convoluted tree trunks on an island of pink wave-smoothed stone …",
+          "… she has been fashioning sequences of plans too convoluted to materialize …",
+          "To therapists, stepfamilies may present convoluted psychological dilemmas …",
+          "a convoluted explanation that left the listeners even more confused than they were before"
+        ]
+      },
+      {
+        "word": "covet",
+        "meanings": [
+          "to want to have something very much (especially something that belongs to somebody else)"
+        ],
+        "synonyms": [
+          [
+            "ache (for)",
+            "crave",
+            "desiderate",
+            "desire",
+            "die (for)",
+            "hanker (for or after)",
+            "hunger (for)",
+            "itch (for)",
+            "jones (for) [slang]",
+            "long (for)",
+            "lust (for or after)",
+            "pant (after)",
+            "pine (for)",
+            "repine (for)",
+            "salivate (for)",
+            "sigh (for)",
+            "thirst (for)",
+            "want",
+            "wish (for)",
+            "yearn (for)",
+            "yen (for)"
+          ]
+        ],
+        "wordSentence": [
+          "The oldest of the students, she had become a confidante of Fern's and she alone was allowed to call her by her first name. It was not a privilege the others coveted.",
+          "The only Commandment I'd breached, besides killing that bird with my air rifle, was that I had coveted Bobby Entrekin's electric train. It blew real smoke. Mine didn't.",
+          "He had discovered a great law of human action, without knowing it—namely, that in order to make a man or a boy covet a thing, it is only necessary to make the thing difficult to attain.",
+          "His religion warns against coveting material goods.",
+          "I've been coveting that sleek sports car in the showroom for some time now."
+        ]
+      },
+      {
+        "word": "craven",
+        "meanings": [
+          "contemptibly lacking in courage; cowardly.\n\"a craven abdication of his moral duty\"\nSimilar:\ncowardly\nlily-livered\nfaint-hearted\nchicken-hearted\npigeon-hearted",
+          "a cowardly person."
+        ],
+        "synonyms": [
+          [
+            "chicken",
+            "chicken-livered",
+            "chickenhearted",
+            "cowardly",
+            "dastardly",
+            "gutless",
+            "lily-livered",
+            "milk-livered [archaic]",
+            "poltroon",
+            "pusillanimous",
+            "recreant",
+            "spineless",
+            "unheroic",
+            "yellow"
+          ]
+        ],
+        "wordSentence": [
+          "a craven refusal to deliver the unwelcome news personally"
+        ]
+      },
+      {
+        "word": "decorum",
+        "meanings": [
+          "polite behaviour that is appropriate in a social situation"
+        ],
+        "synonyms": [
+          [
+            "decency",
+            "form",
+            "propriety"
+          ]
+        ],
+        "wordSentence": [
+          "He has no sense of decorum.",
+          "high standards of decorum are usually required when attending the opera"
+        ]
+      },
+      {
+        "word": "deft",
+        "meanings": [
+          "(used especially about movements) skilful and quick"
+        ],
+        "synonyms": [
+          [
+            "adroit",
+            "artful",
+            "bravura",
+            "delicate",
+            "dexterous",
+            "dextrous",
+            "expert",
+            "masterful",
+            "masterly",
+            "practiced",
+            "practised",
+            "skillful",
+            "virtuoso",
+            "workmanlike"
+          ]
+        ],
+        "wordSentence": [
+          "The photographer is known for her deft use of lighting.",
+          "a luthier whose deft craftsmanship is prized by violinists the world over"
+        ]
+      },
+      {
+        "word": "demur",
+        "meanings": [
+          "raise objections or show reluctance.\n\"normally she would have accepted the challenge, but she demurred\"\nSimilar:\nraise objections\nobject\ntake exception\ntake issue\nprotest",
+          "the action of objecting to or hesitating over something.\n\"they accepted this ruling without demur\"\nSimilar:\nobjection\nprotest\nprotestation\ncomplaint\ndispute\ndissent",
+          "demur is sometimes confused with demure"
+        ],
+        "synonyms": [
+          [
+            "except",
+            "expostulate",
+            "kick",
+            "object",
+            "protest",
+            "remonstrate (with)"
+          ],
+          [
+            "challenge",
+            "complaint",
+            "demurral",
+            "demurrer",
+            "difficulty",
+            "exception",
+            "expostulation",
+            "fuss",
+            "kick",
+            "objection",
+            "protest",
+            "question",
+            "remonstrance",
+            "stink"
+          ]
+        ],
+        "wordSentence": [
+          "She suggested that he would win easily, but he demurred, saying he expected the election to be close.",
+          "don't hesitate to demur to the idea if you have any qualms",
+          "we accepted his offer to pay for our dinners without demur"
+        ]
+      },
+      {
+        "word": "derivative",
+        "meanings": [
+          "a form of something (especially a word) that has developed from the original form"
+        ],
+        "synonyms": [
+          [
+            "by-product",
+            "derivate",
+            "derivation",
+            "offshoot",
+            "outgrowth",
+            "spin-off"
+          ],
+          [
+            "secondary",
+            "secondhand"
+          ]
+        ],
+        "wordSentence": [
+          "The word “childish” is a derivative of “child.”",
+          "Tofu is one of many soybean derivatives.",
+          "Petroleum is a derivative of coal tar.",
+          "A number of critics found the film derivative and predictable.",
+          "His style seems too derivative of Hemingway."
+        ]
+      },
+      {
+        "word": "desiccate",
+        "meanings": [
+          "remove the moisture from (something); cause to become completely dry.\n\"both the older growth and the new vegetation were desiccated by months of relentless sun\"\nSimilar:\ndried\ndried up\ndry\ndehydrated\npowdered"
+        ],
+        "synonyms": [
+          [
+            "castrate",
+            "damp",
+            "dampen",
+            "deaden",
+            "dehydrate",
+            "devitalize",
+            "enervate",
+            "geld",
+            "lobotomize",
+            "petrify"
+          ]
+        ],
+        "wordSentence": [
+          "that historian's dryasdust prose desiccates what is actually an exciting period in European history",
+          "add a cup of desiccated coconut to the mix"
+        ]
+      },
+      {
+        "word": "diatribe",
+        "meanings": [
+          "a forceful and bitter verbal attack against someone or something.\n\"a diatribe against consumerism\"\nSimilar:\ntirade\nharangue\nverbal onslaught\nverbal attack\nstream of abuse"
+        ],
+        "synonyms": [
+          [
+            "harangue",
+            "jeremiad",
+            "philippic",
+            "rant",
+            "tirade"
+          ]
+        ],
+        "wordSentence": [
+          "… his apparent inability to keep his pen from drifting from the main objective of his words into diatribe must have taken away from the sound and otherwise convincing arguments that he advanced.",
+          "I looked … and listened to her ahistorical and apolitical diatribe. Her comments were a more extreme form of the kind of Black bashing I've often heard …",
+          "… gradually I realize the headman's diatribe has begun to feature a new term I was unfamiliar with at the time—the word for caterpillar, as it turns out, in the Iban dialect.",
+          "The article is a diatribe against mainstream media.",
+          "a bitter diatribe about how unfair the tax system is"
+        ]
+      },
+      {
+        "word": "incredulous",
+        "meanings": [
+          "not willing or not able to believe something; unbelieving, showing an inability to believe something"
+        ],
+        "synonyms": [
+          [
+            "disbelieving",
+            "distrustful",
+            "doubting",
+            "mistrustful",
+            "negativistic",
+            "questioning",
+            "show-me",
+            "skeptical",
+            "suspecting",
+            "suspicious",
+            "unbelieving"
+          ]
+        ],
+        "wordSentence": [
+          "\"Afraid not.\" I made an expression to show that I was as incredulous about this as he was.",
+          "A tweed-encased fogey, he's allergic to technology, persnickety about language, and incredulous that anyone could object to his incessant smoking.",
+          "He was greeted with incredulous laughter.",
+          "… no obstacle, no incredulous or unsafe circumstance …"
+        ]
+      }
+    ]
+  }
+}
