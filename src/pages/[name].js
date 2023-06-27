@@ -16,7 +16,8 @@ const Set = () => {
     
     useEffect(()=>{
         if(name!==undefined){
-            const words = require(`@/data/${name}.json`);
+            //const words = require(`@/data/${name}.json`); //giving error
+            const words = require(`../data/${name}.json`);
 
             setWordData(words);
         }

@@ -5,6 +5,8 @@ const Word = ({word}) => {
 
     const [seeMoreSentence, setSeeMoreSentence] = useState(false);
 
+    console.log(word)
+
   return (
     <div
       className={`${styles.word_container}`}
@@ -14,7 +16,7 @@ const Word = ({word}) => {
           <div className={styles['meanings']}>
             <strong>Meanings:</strong>
             <ul>
-                {word.meanings.map((meaning, index) => (
+                {word?.meanings?.map((meaning, index) => (
                     <li key={index}>{meaning}</li>
                 ))}
             </ul>
@@ -22,7 +24,7 @@ const Word = ({word}) => {
           <div className={styles['synonyms']}>
             <strong>Synonyms:</strong>
             <ul>
-              {word.synonyms.map((synonym, index) => (
+              {word?.synonyms?.map((synonym, index) => (
                 synonym.map((syn, ind) => (
                     <li key={ind}>{syn}</li>
                 )
@@ -33,13 +35,13 @@ const Word = ({word}) => {
           <div className={styles['word-sentence']}>
           <strong>Sentences:</strong>
           <ul>
-            {word.wordSentence.map((sentence, index) => (
+            {word?.wordSentence.map((sentence, index) => (
                 seeMoreSentence ? <li key={index}>{sentence}</li> : index < 1 && <li key={index}>{sentence}</li>
             //   <p key={index}>{sentence}</p>
             ))}
             </ul>
                 
-            {word.wordSentence.length > 1 && <button onMouseEnter={() => setSeeMoreSentence(!seeMoreSentence)}>{seeMoreSentence ? 'See Less' : 'See More'}</button>}
+            {word?.wordSentence.length > 1 && <button onMouseEnter={() => setSeeMoreSentence(!seeMoreSentence)}>{seeMoreSentence ? 'See Less' : 'See More'}</button>}
           </div>
         </div>
   )
