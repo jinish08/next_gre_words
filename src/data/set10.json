@@ -1,0 +1,789 @@
+{
+  "set10": {
+    "setNumber": 10,
+    "setName": "set10",
+    "words": [
+      {
+        "word": "acumen",
+        "meanings": [
+          "the ability to understand and judge things quickly and clearly"
+        ],
+        "synonyms": [
+          [
+            "astuteness",
+            "caginess",
+            "cageyness",
+            "canniness",
+            "clear-sightedness",
+            "foxiness",
+            "hardheadedness",
+            "intelligence",
+            "keenness",
+            "knowingness",
+            "sharpness",
+            "shrewdness",
+            "wit"
+          ]
+        ],
+        "wordSentence": [
+          "And perhaps this is just part of Washington's transition into the new economy: the triumph of national brands over local loyalty, of business acumen over upper Northwest idealism.",
+          "… the historical acumen, the steady shrewdness, and the uncommon common sense with which the old maestro watches the American procession of similar problems faced by dissimilar egos.",
+          "Here was a man of extraordinary sensitivity, political acumen, spiritual power, and sexual wildness; a free spirit if ever there was one.",
+          "Her political acumen won her the election.",
+          "a lack of business acumen"
+        ]
+      },
+      {
+        "word": "antithesis",
+        "meanings": [
+          "the opposite of something",
+          "a difference between two things"
+        ],
+        "synonyms": [
+          [
+            "antipode",
+            "contrary",
+            "counter",
+            "negative",
+            "obverse",
+            "opposite",
+            "reverse"
+          ]
+        ],
+        "wordSentence": [
+          "In urban areas, middle schools often became the antithesis of what reformers had intended. Instead of warm incubators of independence and judgment, they became impersonal, oppressive institutions.",
+          "Yet the newest residential rage in Dallas is the antithesis of the traditional neighborhood: the gated community. Depending on your income and level of anxiety, these private enclaves may contain golf courses, health clubs and equestrian centers …",
+          "Cato, who dosed his family on cabbage soup, derided Greek physicians as the antithesis of Roman virtue: they were frauds who cheated patients and 'have sworn to kill all barbarians with their drugs'.",
+          "true love for another is the antithesis of the desire to control that person's life"
+        ]
+      },
+      {
+        "word": "ascribe",
+        "meanings": [
+          "to say that something was written by or belonged to somebody; to say what caused something"
+        ],
+        "synonyms": [
+          [
+            "accredit",
+            "attribute",
+            "chalk up",
+            "credit",
+            "impute",
+            "lay",
+            "put down"
+          ]
+        ],
+        "wordSentence": [
+          "ascribed their stunning military victory to good intelligence beforehand"
+        ]
+      },
+      {},
+      {
+        "word": "eschew",
+        "meanings": [
+          "deliberately avoid using; abstain from.\n\"he appealed to the crowd to eschew violence\"\nSimilar:\nabstain from\nrefrain from\ngive up\nforgo\nforswear\nshun\nrenounce"
+        ],
+        "synonyms": [
+          [
+            "avoid",
+            "dodge",
+            "duck",
+            "elude",
+            "escape",
+            "evade",
+            "finesse",
+            "get around",
+            "scape",
+            "shake",
+            "shirk",
+            "shuffle (out of)",
+            "shun",
+            "weasel (out of)"
+          ]
+        ],
+        "wordSentence": [
+          "Though a doctor with psychiatric training, he eschewed the science that had so enamored earlier child-rearing professionals …",
+          "A fair number of academics eschew the simple title \"professor\" and call themselves economists, astronomers, historians, philosophers.",
+          "When introduced to a stranger, he eschewed formalities, stuck out a gnarled right hand and responded with a chummy, \"Hermann.\"",
+          "They now eschew the violence of their past.",
+          "a psychologist who eschews the traditional methods of psychotherapy"
+        ]
+      },
+      {
+        "word": "esoteric",
+        "meanings": [
+          "intended for or likely to be understood or enjoyed by only few people with a special knowledge or interest"
+        ],
+        "synonyms": [
+          [
+            "abstruse",
+            "arcane",
+            "deep",
+            "hermetic",
+            "hermetical",
+            "profound",
+            "recondite"
+          ]
+        ],
+        "wordSentence": [
+          "A kahuna is a master of Hawaiian esoteric practices. Recently, Mariko Gordon and Hugh Cosman engaged a kahuna to bless their house.  …",
+          "… he listens to a group of Malaysians playing reedy, plangent music on some esoteric kind of wind instrument.",
+          "There was a new mall, an excellent bookstore with esoteric literary and policy journals, some restaurants with cosmopolitan menus, and engaging real estate advertisements.",
+          "metaphysics is such an esoteric subject that most people are content to leave it to the philosophers",
+          "must have had some esoteric motive for leaving his art collection to a museum halfway around the globe"
+        ]
+      },
+      {
+        "word": "evasive",
+        "meanings": [
+          "trying to avoid something; not direct"
+        ],
+        "synonyms": [
+          [
+            "elusive",
+            "fugitive",
+            "slippery"
+          ]
+        ],
+        "wordSentence": [
+          "She gave an evasive answer.",
+          "They took evasive action to avoid capture."
+        ]
+      },
+      {
+        "word": "exculpate",
+        "meanings": [
+          "to prove or state officially that somebody is not going to be accused of doing something wrong or is not guilty of something"
+        ],
+        "synonyms": [
+          [
+            "absolve",
+            "acquit",
+            "clear",
+            "exonerate",
+            "vindicate"
+          ]
+        ],
+        "wordSentence": [
+          "The court exculpated him after a thorough investigation.",
+          "I will present evidence that will exculpate my client."
+        ]
+      },
+      {
+        "word": "expedite",
+        "meanings": [
+          "to make something happen more quickly"
+        ],
+        "synonyms": [],
+        "wordSentence": [
+          "During the fire season they wear a semblance of uniform intended to expedite the rush when the siren howls …",
+          "Overnight he found himself coordinating the train and ship schedules and expediting the loading and unloading of 15,000 officers and men …",
+          "This final phase was never actually completed because of the need to expedite an airmobile force to Vietnam.",
+          "After the war its leaders were stigmatized as collaborators and accused of helping to expedite the murderous work of the Nazis."
+        ]
+      },
+      {
+        "word": "fastidious",
+        "meanings": [
+          "difficult to please; wanting everything to be perfect"
+        ],
+        "synonyms": [
+          [
+            "choosy",
+            "choosey",
+            "dainty",
+            "delicate",
+            "demanding",
+            "exacting",
+            "finical",
+            "finicking",
+            "finicky",
+            "fussbudgety",
+            "fussy",
+            "nice",
+            "old-maidish",
+            "particular",
+            "pernickety [chiefly British]",
+            "persnickety",
+            "picky"
+          ]
+        ],
+        "wordSentence": [
+          "My mother had always been the most fastidious and organized of people—a wet ring left on her coffee table by a glass could drive her to distraction.",
+          "\"I'll stop off and get us a sandwich,\" said Matthew.  … Tony, a fastidious eater, sighed.",
+          "Though he prides himself on being hip, he is too fastidious to do anything dangerous or dirty.",
+          "He is fastidious about keeping the house clean.",
+          "She was too fastidious to do anything that might get her dirty."
+        ]
+      },
+      {
+        "word": "feign",
+        "meanings": [
+          "to pretend that you have a particular feeling or that you are tired or ill, etc."
+        ],
+        "synonyms": [
+          [
+            "act",
+            "affect",
+            "assume",
+            "bluff",
+            "counterfeit",
+            "dissemble",
+            "fake",
+            "pass (for)",
+            "pretend",
+            "profess",
+            "put on",
+            "sham",
+            "simulate"
+          ]
+        ],
+        "wordSentence": [
+          "I wince, feigning interest in a TV Guide and mumbling a hello.",
+          "Success keeps her busy. \"Relaxation?\" she asks, feigning puzzlement. \"What's that?\"",
+          "… Brad would sometimes clown or feign clumsiness just to crack her composed expression with a blush or a disapproving frown.",
+          "I would never feign illness just to get out of a test."
+        ]
+      },
+      {
+        "word": "furtive",
+        "meanings": [
+          "secret, acting as though you are trying to hide something because you feel guilty"
+        ],
+        "synonyms": [
+          [
+            "shady",
+            "shifty",
+            "slippery",
+            "sly",
+            "sneaking",
+            "sneaky",
+            "stealthy"
+          ]
+        ],
+        "wordSentence": [
+          "This means that they need use only quantum mechanics or only general relativity and can, with a furtive glance, shrug off the barking admonition of the other.",
+          "Fall's pleasures were furtive, risky, short-lived-buckeye fights,  … the endless recipes for the apples Mrs. Railsbeck asked him to fetch from the cobwebbed crate in the basement.",
+          "… it made Shepherd look furtive, wary, hunted—as if the photographer had shot him against his will, in the act of slamming the door.",
+          "He cast a furtive glance in our direction.",
+          "We exchanged furtive smiles across the table."
+        ]
+      },
+      {
+        "word": "hamper",
+        "meanings": [
+          "to make something difficult",
+          "a large basket with a lid that is used for carrying food"
+        ],
+        "synonyms": [
+          [
+            "clog",
+            "cramp",
+            "embarrass",
+            "encumber",
+            "fetter",
+            "handcuff",
+            "handicap",
+            "hinder",
+            "hobble",
+            "hog-tie",
+            "hold back",
+            "hold up",
+            "impede",
+            "inhibit",
+            "interfere (with)",
+            "manacle",
+            "obstruct",
+            "shackle",
+            "short-circuit",
+            "stymie",
+            "tie up",
+            "trammel"
+          ]
+        ],
+        "wordSentence": [
+          "The project was hampered by budget restraints.",
+          "Construction is hampering traffic on the highway."
+        ]
+      },
+      {
+        "word": "indispensable",
+        "meanings": [
+          "very important, so that it is not possible to be without it"
+        ],
+        "synonyms": [
+          [
+            "all-important",
+            "critical",
+            "essential",
+            "imperative",
+            "integral",
+            "must-have",
+            "necessary",
+            "necessitous",
+            "needed",
+            "needful",
+            "required",
+            "requisite",
+            "vital"
+          ]
+        ],
+        "wordSentence": [
+          "fully aware that he was an indispensable assistant, he decided that it was high time that he be paid what he was worth"
+        ]
+      },
+      {
+        "word": "lament",
+        "meanings": [
+          "a song, poem or other expression of sadness for somebody who has died or for something that has ended"
+        ],
+        "synonyms": [
+          [
+            "bemoan",
+            "bewail",
+            "deplore",
+            "grieve (for)",
+            "mourn",
+            "wail (for)"
+          ],
+          [
+            "groan",
+            "howl",
+            "keen",
+            "lamentation",
+            "moan",
+            "plaint",
+            "wail"
+          ]
+        ],
+        "wordSentence": [
+          "She lamented over the loss of her best friend.",
+          "“I've lost my best friend!” she lamented.",
+          "The poem is a lament for a lost love.",
+          "the national lament that was heard when the beloved singer perished in the crash"
+        ]
+      },
+      {},
+      {
+        "word": "nonchalant",
+        "meanings": [
+          "not feeling or showing interest or excitement about something"
+        ],
+        "synonyms": [
+          [
+            "apathetic",
+            "casual",
+            "complacent",
+            "disinterested",
+            "incurious",
+            "indifferent",
+            "insensible",
+            "insouciant",
+            "perfunctory",
+            "pococurante",
+            "unconcerned",
+            "uncurious",
+            "uninterested"
+          ]
+        ],
+        "wordSentence": [
+          "In those stories, we already find the qualities the world would come to know as \"Kafkaesque\": the nonchalant intrusion of the bizarre and horrible into everyday life, the subjection of ordinary people to an inscrutable fate.",
+          "… watch his iron-backed posture as he rides a horse and listen to the nonchalant way in which, not barking but speaking he says \"Fire\" to the line of infantry, like someone asking for a light.",
+          "He and Anita (and an ancient, nonchalant Lhasa apso … ) live in a gated community, surrounded by high, vine-covered walls, redolent of Wrigley, that embrace a golf club and an attractive thicket of large houses …",
+          "It was thrilling to watch them, the regulars, so nonchalant, so composed as they slipped from Senate cloakroom to Senate hideaway, sharing jokes with powerful men old enough to be their fathers."
+        ]
+      },
+      {
+        "word": "partial",
+        "meanings": [
+          "not complete",
+          "liking something very much"
+        ],
+        "synonyms": [
+          [
+            "biased",
+            "one-sided",
+            "parti pris",
+            "partisan",
+            "prejudiced"
+          ]
+        ],
+        "wordSentence": [
+          "These plants prefer full sun or partial shade.",
+          "The partial ban on immigration has been lifted.",
+          "His latest play was deemed only a partial success by the critics."
+        ]
+      },
+      {
+        "word": "pensive",
+        "meanings": [
+          "thinking deeply and quietly about something serious"
+        ],
+        "synonyms": [
+          [
+            "broody",
+            "cogitative",
+            "contemplative",
+            "meditative",
+            "melancholy",
+            "musing",
+            "reflective",
+            "ruminant",
+            "ruminative",
+            "thoughtful"
+          ]
+        ],
+        "wordSentence": [
+          "… the combination of national crisis and imminent electoral victory creates an atmosphere at once pensive and elated.",
+          "We take in the synchronized swimming of sardines and the pensive patrol of a leopard shark.",
+          "… did not seem depressed so much as pensive, and within a few minutes he was talking eagerly—in fact, unstoppably—about his favorite subject: school.",
+          "The child sat by himself, looking pensive.",
+          "rainy days often put her in a pensive mood"
+        ]
+      },
+      {
+        "word": "portend",
+        "meanings": [
+          "to be a sign of a future event, especially an unpleasant one"
+        ],
+        "synonyms": [],
+        "wordSentence": [
+          "The distant thunder portended a storm.",
+          "If you're superstitious, a black cat portends trouble."
+        ]
+      },
+      {
+        "word": "provincial",
+        "meanings": [
+          "connected with one of the large areas that some countries are divided into",
+          "connected with the parts of a country that do not include its most important city"
+        ],
+        "synonyms": [
+          [
+            "bumpkin",
+            "chawbacon",
+            "churl",
+            "clodhopper",
+            "cornball",
+            "countryman",
+            "hayseed",
+            "hick",
+            "rube",
+            "rustic",
+            "yokel"
+          ],
+          [
+            "illiberal",
+            "insular",
+            "Lilliputian",
+            "little",
+            "narrow",
+            "narrow-minded",
+            "parochial",
+            "petty",
+            "picayune",
+            "sectarian",
+            "small",
+            "small-minded"
+          ]
+        ],
+        "wordSentence": [
+          "the confidence man figured that fleecing these provincials would be easy",
+          "She speaks with a provincial accent.",
+          "an artist who has been criticized for being provincial and old-fashioned",
+          "His provincial attitude was a source of irritation for her.",
+          "She is too provincial to try foreign foods."
+        ]
+      },
+      {
+        "word": "rudimentary",
+        "meanings": [
+          "very basic or simple"
+        ],
+        "synonyms": [
+          [
+            "crude",
+            "low",
+            "primitive",
+            "rude"
+          ]
+        ],
+        "wordSentence": [
+          "Because now, every schlemiel with a pair of mirrored sunglasses and a rudimentary grasp of the rules of poker thinks he can play cards with the pros.",
+          "Despite the rudimentary nature of its instruments—an octant, a chronometer and a level—the Lewis and Clark Expedition was a triumph for science and natural history.",
+          "A few were hopeless imbeciles, unable to comprehend more than the rudimentary requirements of filling their bellies when food was placed before them …",
+          "This class requires a rudimentary knowledge of human anatomy."
+        ]
+      },
+      {
+        "word": "salutary",
+        "meanings": [
+          "having a good effect on somebody/something, though often seeming unpleasant"
+        ],
+        "synonyms": [
+          [
+            "advantageous",
+            "benefic",
+            "beneficent",
+            "beneficial",
+            "benignant",
+            "favorable",
+            "friendly",
+            "good",
+            "helpful",
+            "kindly",
+            "profitable"
+          ]
+        ],
+        "wordSentence": [
+          "The accident should be a salutary lesson to be more careful.",
+          "the low interest rates should have a salutary effect on business"
+        ]
+      },
+      {
+        "word": "sever",
+        "meanings": [
+          "to cut something into two pieces; to cut something off",
+          "to end a relationship or communication with somebody"
+        ],
+        "synonyms": [
+          [
+            "break up",
+            "decouple",
+            "disassociate",
+            "disconnect",
+            "disjoin",
+            "disjoint",
+            "dissever",
+            "dissociate",
+            "disunite",
+            "divide",
+            "divorce",
+            "part",
+            "ramify",
+            "resolve",
+            "separate",
+            "split",
+            "sunder",
+            "uncouple",
+            "unlink",
+            "unyoke"
+          ]
+        ],
+        "wordSentence": [
+          "He severed the lowest tree limbs.",
+          "His finger was severed in the accident.",
+          "Activists are asking the government to sever all diplomatic relations with the country."
+        ]
+      },
+      {
+        "word": "slight",
+        "meanings": [
+          "very small; not important or serious",
+          "(used about a person’s body) thin and light"
+        ],
+        "synonyms": [
+          [
+            "asthenic",
+            "debilitated",
+            "delicate",
+            "down-and-out",
+            "effete",
+            "enervated",
+            "enfeebled",
+            "faint",
+            "feeble",
+            "frail",
+            "infirm",
+            "languid",
+            "low",
+            "prostrate",
+            "prostrated",
+            "sapped",
+            "soft",
+            "softened",
+            "tender",
+            "unsubstantial",
+            "wasted",
+            "weak",
+            "weakened",
+            "wimpish",
+            "wimpy"
+          ],
+          [
+            "affront",
+            "dis [slang]",
+            "diss",
+            "disrespect",
+            "insult",
+            "offend",
+            "outrage",
+            "slap",
+            "wound"
+          ],
+          [
+            "affront",
+            "barb",
+            "brickbat",
+            "cut",
+            "dart",
+            "dig",
+            "dis [slang]",
+            "diss",
+            "epithet",
+            "gird",
+            "indignity",
+            "insult",
+            "name",
+            "offense",
+            "offence",
+            "outrage",
+            "personality",
+            "poke",
+            "put-down",
+            "sarcasm",
+            "slap",
+            "slur"
+          ]
+        ],
+        "wordSentence": [
+          "There is a slight chance of rain.",
+          "Her head is tilted at a slight angle in the picture.",
+          "If you have even the slightest doubt, then don't do it."
+        ]
+      },
+      {
+        "word": "somnolent",
+        "meanings": [
+          "causing or suggestive of drowsiness.\n\"a somnolent summer day\""
+        ],
+        "synonyms": [
+          [
+            "dozy",
+            "drowsy",
+            "sleepy",
+            "slumberous",
+            "slumbrous"
+          ]
+        ],
+        "wordSentence": [
+          "trying to teach somnolent students on a very hot day",
+          "the somnolent hum of insects in the grass"
+        ]
+      },
+      {
+        "word": "stoic",
+        "meanings": [
+          "suffering pain or difficulty without complaining"
+        ],
+        "synonyms": [
+          [
+            "forbearing",
+            "long-suffering",
+            "patient",
+            "tolerant",
+            "uncomplaining"
+          ]
+        ],
+        "wordSentence": [
+          "\"That would have been to dishonor him,\" said Carr, a notorious stoic who was nearly overcome by emotion in his postgame press conference. Instead, he told the Wolverines that the best way to honor Schembechler was \"to play in a way that would have made him proud.\"",
+          "The philosophical implications of this claim are as volcanic as the emotions it depicts, for Nussbaum here counters an age-old view espoused by Stoics, Christians and Kantians, alike: emotions are disruptive and subversive to reason, they arise from parochial needs and interests and therefore the life well lived is the life in which the things of this world are left behind for a higher sphere beyond accident, pain and desire.",
+          "Whereas Ludwig Wittgenstein once compared philosophers to garbage men sweeping the mind clean of wrongheaded concepts, Nussbaum believes they should be \"lawyers for humanity\"—a phrase she borrows from Seneca, her favorite Stoic thinker."
+        ]
+      },
+      {
+        "word": "supersede",
+        "meanings": [
+          "to take the place of somebody/something which existed or was used before and which has become old-fashioned"
+        ],
+        "synonyms": [
+          [
+            "cut out",
+            "displace",
+            "displant",
+            "relieve",
+            "replace",
+            "substitute",
+            "supplant"
+          ]
+        ],
+        "wordSentence": [
+          "Fortunately, the scientific enterprise has its own self-correcting mechanisms that eventually sort things out. Studies that are wrong will be superseded by better studies with different results. Studies that are right will be corroborated by other good studies.",
+          "The ancient human carriers of information and understanding—elders, priests, bards, teachers, and community members—are superseded by a more durable and efficient medium, the printed word.",
+          "Upgrading America's too-old, too-slow telephone network, which took about a century to build, is a massive task. But if you believe predictions that the Internet will one day supersede the telephone as the world's primary means of communications, these companies will be road kill if they simply sit by the wayside.",
+          "This edition supersedes the previous one.",
+          "Former stars were being superseded by younger actors."
+        ]
+      },
+      {
+        "word": "tout",
+        "meanings": [
+          "to try to persuade people that somebody/something is important or valuable by praising them/it",
+          "to try to persuade people to buy certain goods or services, especially by going to them and asking them directly"
+        ],
+        "synonyms": [
+          [
+            "ballyhoo",
+            "blow up",
+            "crack up",
+            "cry up",
+            "glorify",
+            "trumpet",
+            "tub-thump"
+          ]
+        ],
+        "wordSentence": [
+          "The company is running advertisements touting the drug's effectiveness.",
+          "The company's stock is being touted by many financial advisers.",
+          "People were touting tickets outside the stadium.",
+          "People were touting outside the stadium."
+        ]
+      },
+      {
+        "word": "wane",
+        "meanings": [
+          "to become gradually weaker or less important",
+          "(used about the moon) to appear slightly smaller each day after being full and round"
+        ],
+        "synonyms": [
+          [
+            "abate",
+            "de-escalate",
+            "decline",
+            "decrease",
+            "die (away or down or out)",
+            "diminish",
+            "drain (away)",
+            "drop (off)",
+            "dwindle",
+            "ease",
+            "ebb",
+            "fall",
+            "fall away",
+            "lessen",
+            "let up",
+            "lower",
+            "moderate",
+            "pall",
+            "phase down",
+            "ratchet (down)",
+            "rachet (down)",
+            "recede",
+            "relent",
+            "remit",
+            "shrink",
+            "subside",
+            "taper",
+            "taper off"
+          ]
+        ],
+        "wordSentence": [
+          "The moon waxes and then wanes.",
+          "The scandal caused her popularity to wane.",
+          "Interest in this issue has continued to wane.",
+          "the waning days of summer"
+        ]
+      }
+    ]
+  }
+}

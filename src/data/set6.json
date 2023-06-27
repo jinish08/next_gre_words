@@ -1,0 +1,803 @@
+{
+  "set6": {
+    "setNumber": 6,
+    "setName": "set6",
+    "words": [
+      {
+        "word": "admonish",
+        "meanings": [
+          "to tell somebody firmly that you do not approve of something that he/she has done",
+          "to strongly advise somebody to do something"
+        ],
+        "synonyms": [
+          [
+            "chide",
+            "rebuke",
+            "reprimand",
+            "reproach",
+            "reprove",
+            "tick off"
+          ]
+        ],
+        "wordSentence": [
+          "\"You landed in back of him,\" said Paul, my guide and friend. As he admonished me, the fish turned obligingly, opened its mouth, wide and white, and engulfed my fly.",
+          "He is sympathetic but never condescending, or patronizing, or moralizing. His purpose is not to admonish or deplore but to understand.",
+          "Cops are, from the first day in the academy, admonished that juveniles must not be shot unless in dire emergency …",
+          "They were admonished to take advantage of the opportunity.",
+          "my physician is always admonishing me to eat more healthy foods"
+        ]
+      },
+      {
+        "word": "aesthetic",
+        "meanings": [
+          "concerned with beauty or art"
+        ],
+        "synonyms": [
+          [
+            "attractive",
+            "beauteous",
+            "beautiful",
+            "bonny [chiefly British]",
+            "bonnie",
+            "comely",
+            "cute",
+            "drop-dead",
+            "fair",
+            "fetching",
+            "good",
+            "good-looking",
+            "goodly",
+            "gorgeous",
+            "handsome",
+            "knockout",
+            "likely",
+            "lovely",
+            "lovesome",
+            "pretty",
+            "ravishing",
+            "seemly",
+            "sightly",
+            "stunning",
+            "taking",
+            "well-favored"
+          ],
+          [
+            "attractiveness",
+            "beauteousness",
+            "beautifulness",
+            "beauty",
+            "comeliness",
+            "cuteness",
+            "fairness",
+            "gorgeousness",
+            "handsomeness",
+            "looks",
+            "loveliness",
+            "prettiness",
+            "sightliness"
+          ]
+        ],
+        "wordSentence": [
+          "My generation has an annoying penchant for treating luxuries as necessities and turning guilty pleasures into aesthetic and even moral touchstones.",
+          "Whereas the essence of Proust's aesthetic position was contained in the deceptively simple yet momentous assertion that \"a picture's beauty does not depend on the things portrayed in it.\"",
+          "I suppose that jazz listening and prizefight watching are my two most passionate avocations, and this is largely so because the origins of my aesthetic urges are in the black working class."
+        ]
+      },
+      {
+        "word": "affectation",
+        "meanings": [],
+        "synonyms": [
+          [
+            "affectedness",
+            "grandiosity",
+            "inflation",
+            "pretense",
+            "pretence",
+            "pretension",
+            "pretentiousness"
+          ]
+        ],
+        "wordSentence": [
+          "His French accent is just an affectation.",
+          "a woman of great affectation at social gatherings"
+        ]
+      },
+      {
+        "word": "alleviate",
+        "meanings": [
+          "to make something less strong or bad"
+        ],
+        "synonyms": [
+          [
+            "allay",
+            "assuage",
+            "ease",
+            "help",
+            "mitigate",
+            "mollify",
+            "palliate",
+            "relieve",
+            "soothe"
+          ]
+        ],
+        "wordSentence": [
+          "For decades, as you probably know, researchers have found that when you tell patients that you're giving them medicine, many report that their symptoms are alleviated, even if they're only taking sugar pills.",
+          "Granholm has spent the morning giving a major public address on state finance issues, courting local officials in meetings, and, in between, talking with me. We'd discussed the state of the Michigan economy and her ideas for developing a new high-tech corridor outside Detroit that focuses on homeland security innovation; we went over her ideas for alleviating overcrowding in the state's emergency rooms.",
+          "When applied in ointment form, capsaicin helps alleviate the discomfort of arthritis and psoriasis. Taken internally as a diluted tincture, it helps keep the blood flowing smoothly and strengthens the cardiovascular system.",
+          "Ridley, a British journalist with a doctoral degree in zoology, does touch on the incredible potential of genetics for alleviating human misery.  … But much of his remarkable book is focused on a higher plane of pure intellectual discovery."
+        ]
+      },
+      {
+        "word": "analogous",
+        "meanings": [
+          "similar in some way; that you can compare"
+        ],
+        "synonyms": [
+          [
+            "akin",
+            "alike",
+            "cognate",
+            "comparable",
+            "connate",
+            "correspondent",
+            "corresponding",
+            "ditto",
+            "like",
+            "matching",
+            "parallel",
+            "resemblant",
+            "resembling",
+            "similar",
+            "such",
+            "suchlike"
+          ]
+        ],
+        "wordSentence": [
+          "… gluons, force particles analogous to the photons of electromagnetism.",
+          "… great stretches of algae, analogous to terrestrial woodlands, in which kelp fills the role of trees.",
+          "… not by means superior to, though analogous with, human reason …"
+        ]
+      },
+      {
+        "word": "bolster",
+        "meanings": [
+          "to support or encourage somebody/something; to make something stronger",
+          "a long thick pillow that is put under other pillows"
+        ],
+        "synonyms": [
+          [
+            "bear",
+            "brace",
+            "buttress",
+            "carry",
+            "prop (up)",
+            "shore (up)",
+            "stay",
+            "support",
+            "sustain",
+            "undergird",
+            "underpin",
+            "uphold"
+          ]
+        ],
+        "wordSentence": [
+          "She came with me to bolster my confidence.",
+          "a convincing argument that was bolstered by the speaker's reputation",
+          "She is thinking of ways to bolster her career."
+        ]
+      },
+      {
+        "word": "chauvinistic",
+        "meanings": [
+          "displaying excessive or prejudiced support for one's own cause or group, in particular showing male prejudice against women.\n\"she overcomes the surly objections of her chauvinistic editor to uncover the truth\"",
+          "feeling or displaying aggressive or exaggerated patriotism.\n\"a chauvinistic attitude towards other countries\""
+        ],
+        "synonyms": [
+          [
+            "jingoism",
+            "nationalism",
+            "superpatriotism"
+          ]
+        ],
+        "wordSentence": [
+          "their ingrained chauvinism has blinded them to their country's faults"
+        ]
+      },
+      {
+        "word": "connoisseur",
+        "meanings": [
+          "a person who knows a lot about art, good food, music, etc."
+        ],
+        "synonyms": [
+          [
+            "cognoscente",
+            "dilettante [dated]"
+          ]
+        ],
+        "wordSentence": [
+          "Sean \"P. Diddy\" Combs, now starring in Broadway's A Raisin in the Sun, takes his grooming rituals seriously. \"I take a bath around 3 a.m. when I get home to wind down. I'm a bath connoisseur,\" says Combs, 34. \"I have bath salts, bath beads—I can make you the best bath in the world.\"",
+          "Police reporting had made me a connoisseur of auto accidents. Some people could tell a fake Rembrandt from the real thing; I could tell a run-of-the-mill fender bender from a real accident.",
+          "It was apple juice. Ortiz watched him drink it with all the delicacy of a wine connoisseur sampling new bordeaux.",
+          "He was a voracious reader, a strong critic, an art connoisseur in certain directions, a collector of books, but above all he was a man of the world by profession, and loved the contacts—perhaps the collisions—of society."
+        ]
+      },
+      {
+        "word": "dissemble",
+        "meanings": [
+          "conceal or disguise one's true feelings or beliefs.\n\"an honest, sincere person with no need to dissemble\"\nSimilar:\ndissimulate\npretend\ndeceive\nfeign\nact\nmasquerade\nsham",
+          "disguise or conceal (a feeling or intention).\n\"she smiled, dissembling her true emotion\"",
+          "dissemble is sometimes confused with disassemble"
+        ],
+        "synonyms": [
+          [
+            "act",
+            "affect",
+            "assume",
+            "bluff",
+            "counterfeit",
+            "fake",
+            "feign",
+            "pass (for)",
+            "pretend",
+            "profess",
+            "put on",
+            "sham",
+            "simulate"
+          ]
+        ],
+        "wordSentence": [
+          "he dissembled happiness at the news that his old girlfriend was getting married—to someone else",
+          "children learn to dissemble at a surprisingly early age"
+        ]
+      },
+      {
+        "word": "dogged",
+        "meanings": [
+          "refusing to give up even when something is difficult"
+        ],
+        "synonyms": [
+          [
+            "insistent",
+            "patient",
+            "persevering",
+            "persistent",
+            "pertinacious",
+            "tenacious"
+          ]
+        ],
+        "wordSentence": [
+          "Her dogged efforts eventually paid off.",
+          "a dogged pursuit of power"
+        ]
+      },
+      {
+        "word": "dupe",
+        "meanings": [
+          "to lie to somebody in order to make him/her believe something or do something"
+        ],
+        "synonyms": [
+          [
+            "chump",
+            "gull",
+            "mug [chiefly British]",
+            "patsy",
+            "pigeon",
+            "pushover",
+            "sap",
+            "soft touch",
+            "sucker",
+            "tool"
+          ],
+          [
+            "bamboozle",
+            "beguile",
+            "bluff",
+            "buffalo",
+            "burn",
+            "catch",
+            "con",
+            "cozen",
+            "deceive",
+            "delude",
+            "fake out",
+            "fool",
+            "gaff",
+            "gammon",
+            "gull",
+            "have",
+            "have on [chiefly British]",
+            "hoax",
+            "hoodwink",
+            "hornswoggle",
+            "humbug",
+            "juggle",
+            "misguide",
+            "misinform",
+            "mislead",
+            "snooker",
+            "snow",
+            "spoof",
+            "string along",
+            "suck in",
+            "sucker",
+            "take in",
+            "trick"
+          ],
+          [
+            "carbon",
+            "carbon copy",
+            "clone",
+            "copy",
+            "dummy",
+            "duplicate",
+            "duplication",
+            "facsimile",
+            "imitation",
+            "mock",
+            "reduplication",
+            "replica",
+            "replication",
+            "reproduction"
+          ]
+        ],
+        "wordSentence": [
+          "They duped her out of $300.",
+          "we were duped into thinking the dummy was a real alien"
+        ]
+      },
+      {
+        "word": "empirical",
+        "meanings": [
+          "based on experiments and practical experience, not on ideas"
+        ],
+        "synonyms": [
+          [
+            "existential",
+            "experiential",
+            "experimental",
+            "objective",
+            "observational"
+          ]
+        ],
+        "wordSentence": [
+          "Eventually, access to electron microscopes and X-ray diffraction technology provided the necessary empirical evidence to test the hypotheses, and the jigsaw pieces began to fall into place.",
+          "No religion, new or old, is subject to empirical proof, so what we have is a contest between faiths.",
+          "They collected plenty of empirical data from their experiments.",
+          "guidelines for raising children that are based on empirical evidence"
+        ]
+      },
+      {
+        "word": "engender",
+        "meanings": [
+          "cause or give rise to (a feeling, situation, or condition).\n\"the issue engendered continuing controversy\"\nSimilar:\ncause\nbe the cause of\ngive rise to\nbring about\nlead to\nresult in",
+          "ARCHAIC\n(of a father) beget (offspring)."
+        ],
+        "synonyms": [
+          [
+            "beget",
+            "breed",
+            "bring",
+            "bring about",
+            "bring on",
+            "catalyze",
+            "cause",
+            "create",
+            "do",
+            "draw on",
+            "effect",
+            "effectuate",
+            "generate",
+            "induce",
+            "invoke",
+            "make",
+            "occasion",
+            "produce",
+            "prompt",
+            "result (in)",
+            "spawn",
+            "translate (into)",
+            "work",
+            "yield"
+          ]
+        ],
+        "wordSentence": [
+          "The issue has engendered a considerable amount of debate.",
+          "a suggestion to go out for pizza that didn't seem to engender any interest"
+        ]
+      },
+      {},
+      {
+        "word": "pertinacious",
+        "meanings": [
+          "holding firmly to an opinion or a course of action.\n\"he worked with a pertinacious resistance to interruptions\"\nSimilar:\ndetermined\ntenacious\npersistent\npersevering\nassiduous\npurposeful"
+        ],
+        "synonyms": [
+          [
+            "dogged",
+            "insistent",
+            "patient",
+            "persevering",
+            "persistent",
+            "tenacious"
+          ]
+        ],
+        "wordSentence": [
+          "a pertinacious little boy who was determined to catch and collect reptiles",
+          "a pertinacious salesman who would simply not take “No!” for an answer"
+        ]
+      },
+      {
+        "word": "presumptuous",
+        "meanings": [
+          "confident that something will happen or that somebody will do something without making sure first, in a way that annoys people"
+        ],
+        "synonyms": [
+          [
+            "bold",
+            "familiar",
+            "forward",
+            "free",
+            "immodest",
+            "overfamiliar",
+            "presuming"
+          ]
+        ],
+        "wordSentence": [
+          "To Yale University, he was David Sneed. And some people called him that. Close friends called him Marc. Not wanting to appear presumptuous, I tried not to commit to either, waiting instead for a signal.",
+          "Professor Stegner mistook me, I fear, for an anti-intellectual, not understanding that I was in fact something far less presumptuous—a near-illiterate, especially compared to the rest of his blue-chip roster.",
+          "To spy out the shape of God's Heaven was superfluous, presumptuous, and might prove blasphemous. Galileo was no better than a theological Peeping Tom.",
+          "it's a little presumptuous of you to assume that I'm your new best friend just because I invited you along",
+          "the presumptuous doctor didn't even bother to explain to me the treatment that I would be receiving"
+        ]
+      },
+      {
+        "word": "probity",
+        "meanings": [
+          "the quality of having strong moral principles; honesty and decency.\n\"financial probity\"\nSimilar:\nintegrity\nhonesty\nuprightness\ndecency\nmorality\nrectitude"
+        ],
+        "synonyms": [
+          [
+            "character",
+            "decency",
+            "goodness",
+            "honesty",
+            "integrity",
+            "morality",
+            "rectitude",
+            "righteousness",
+            "rightness",
+            "uprightness",
+            "virtue",
+            "virtuousness"
+          ]
+        ],
+        "wordSentence": [
+          "a person of indisputable probity must head the disciplinary panel",
+          "the defense attorney questioned the probity of the witness"
+        ]
+      },
+      {
+        "word": "proliferate",
+        "meanings": [
+          "to increase quickly in number"
+        ],
+        "synonyms": [
+          [
+            "accelerate",
+            "accumulate",
+            "appreciate",
+            "balloon",
+            "boom",
+            "build up",
+            "burgeon",
+            "bourgeon",
+            "climb",
+            "enlarge",
+            "escalate",
+            "expand",
+            "gain",
+            "increase",
+            "mount",
+            "multiply",
+            "mushroom",
+            "rise",
+            "roll up",
+            "snowball",
+            "spread",
+            "swell",
+            "wax"
+          ]
+        ],
+        "wordSentence": [
+          "rumors about the incident proliferated on the Internet"
+        ]
+      },
+      {
+        "word": "specious",
+        "meanings": [
+          "superficially plausible, but actually wrong.\n\"a specious argument\"",
+          "misleading in appearance, especially misleadingly attractive.\n\"the music trade gives Golden Oldies a specious appearance of novelty\"\nSimilar:\nplausible but wrong\nseemingly correct\nmisleading\ndeceptive\nfalse"
+        ],
+        "synonyms": [
+          [
+            "beguiling",
+            "deceitful",
+            "deceiving",
+            "deceptive",
+            "deluding",
+            "delusive",
+            "delusory",
+            "fallacious",
+            "false",
+            "misleading"
+          ]
+        ],
+        "wordSentence": [
+          "Forty years ago I was not yet thirty, and my father still held to the hope that I would come to my senses, abandon the practice of journalism, and follow a career in one of the Wall Street money trades. As a young man during the Great Depression he had labored briefly as a city-room reporter for William Randolph Hearst's San Francisco Examiner, and he knew that the game was poorly paid and usually rigged, more often than not a matter of converting specious rumor into dubious fact.",
+          "By and large, they made these changes with specious explanations or no explanation at all. Today, when curricula list rhetoric as a subject, it usually means simply the study of how to write effectively.",
+          "One must always guard the interests of one's constituency in the public forum even when its claims are weak or perhaps specious, lest one's opponents steal the march in the never-ending battle for resources or public support.",
+          "He justified his actions with specious reasoning.",
+          "a specious argument that really does not stand up under close examination"
+        ]
+      },
+      {
+        "word": "spurious",
+        "meanings": [
+          "false, although seeming to be genuine",
+          "(used about a statement, argument, judgement etc.) based on false ideas or something not understood correctly"
+        ],
+        "synonyms": [
+          [
+            "bogus",
+            "counterfeit",
+            "fake",
+            "false",
+            "forged",
+            "inauthentic",
+            "phony",
+            "phoney",
+            "queer",
+            "sham",
+            "snide",
+            "unauthentic"
+          ]
+        ],
+        "wordSentence": [
+          "One reiterated theme of his book is that the electoral process can be the most dangerous of delusions, tending to confer a spurious legitimacy on those most willing to corrupt it.",
+          "Of all the potentially spurious phrases regularly found lurking on book jackets, none should be approached with greater wariness than \"This is his first novel.\"",
+          "I have no special interest in defending modern finance theory, but I think it is important to get this straight, lest Soros's own ideas acquire spurious validity as a practical corrective to academic moonshine.",
+          "a spurious Picasso painting that wouldn't have fooled an art expert for a second",
+          "claimed that the governor's election-year enthusiasm for conservation was spurious, since he had cut funding for state parks"
+        ]
+      },
+      {},
+      {
+        "word": "subvert",
+        "meanings": [
+          "to try to destroy or damage a government, religion or political system by attacking it secretly and in an indirect way"
+        ],
+        "synonyms": [
+          [
+            "abase",
+            "bastardize",
+            "canker",
+            "cheapen",
+            "corrupt",
+            "debase",
+            "debauch",
+            "degrade",
+            "demean",
+            "demoralize",
+            "deprave",
+            "deteriorate",
+            "lessen",
+            "pervert",
+            "poison",
+            "profane",
+            "prostitute",
+            "vitiate",
+            "warp"
+          ]
+        ],
+        "wordSentence": [
+          "They conspired to subvert the government.",
+          "trying to subvert the electoral process"
+        ]
+      },
+      {
+        "word": "timorous",
+        "meanings": [
+          "showing or suffering from nervousness or a lack of confidence.\n\"a timorous voice\"\nSimilar:\neasily frightened\nlacking courage\nfearful\napprehensive\nfaint-hearted"
+        ],
+        "synonyms": [
+          [
+            "fainthearted",
+            "fearful",
+            "fearsome",
+            "mousy",
+            "mousey",
+            "scary",
+            "shy",
+            "skittish",
+            "timid",
+            "tremulous"
+          ]
+        ],
+        "wordSentence": [
+          "a shy and timorous teenager",
+          "He spoke with a timorous voice."
+        ]
+      },
+      {
+        "word": "tortuous",
+        "meanings": [
+          "complicated, not clear and simple",
+          "(used about a road, etc.) with many bends"
+        ],
+        "synonyms": [
+          [
+            "bending",
+            "crazy",
+            "crooked",
+            "curled",
+            "curling",
+            "curved",
+            "curving",
+            "curvy",
+            "devious",
+            "serpentine",
+            "sinuous",
+            "twisted",
+            "twisting",
+            "winding",
+            "windy"
+          ]
+        ],
+        "wordSentence": [
+          "a tortuous path up the mountain",
+          "a tortuous mountain road marked by numerous hairpin turns"
+        ]
+      },
+      {
+        "word": "tractable",
+        "meanings": [
+          "easy to deal with, manage or control"
+        ],
+        "synonyms": [
+          [
+            "amenable",
+            "biddable",
+            "compliant",
+            "conformable",
+            "docile",
+            "law-abiding",
+            "obedient",
+            "submissive"
+          ]
+        ],
+        "wordSentence": [
+          "This new approach should make the problem more tractable.",
+          "He's a very tractable child."
+        ]
+      },
+      {
+        "word": "transient",
+        "meanings": [
+          "lasting or continuing for a short period of time",
+          "staying or working in a place for a short period of time and then moving on",
+          "a person who stays or works in a particular place only for a short period of time and then moves on"
+        ],
+        "synonyms": [
+          [
+            "brief",
+            "deciduous",
+            "ephemeral",
+            "evanescent",
+            "flash",
+            "fleeting",
+            "fugacious",
+            "fugitive",
+            "impermanent",
+            "momentary",
+            "passing",
+            "short-lived",
+            "temporary",
+            "transitory"
+          ]
+        ],
+        "wordSentence": [
+          "A Summer in New York is actually Europe, the Sequel—city of transient Danes and Italians and Spaniards and French.",
+          "But Vandenberg, who had already written a hagiographic biography of Hamilton, was doing his personal hero no service. Rather, he trivialized him by dragging him into the transient issues of the day.",
+          "The mountain lies between his residence and the main road, and occludes the expectation of transient visits."
+        ]
+      },
+      {
+        "word": "ubiquitous",
+        "meanings": [
+          "seeming to be everywhere or in several places at the same time; very common"
+        ],
+        "synonyms": [
+          [
+            "common",
+            "common or garden [chiefly British]",
+            "commonplace",
+            "everyday",
+            "familiar",
+            "frequent",
+            "garden-variety",
+            "household",
+            "ordinary",
+            "quotidian",
+            "routine",
+            "usual"
+          ]
+        ],
+        "wordSentence": [
+          "Hot dogs are the ideal road trip food—inexpensive, portable, ubiquitous.",
+          "Shawarma is the new street meat. Both a late night favourite and a quick lunch classic, the Middle Eastern dish is now ubiquitous on the streets of Toronto.",
+          "In major league locker rooms, ice packs are ubiquitous appendages for pitchers, who wrap their shoulder or elbow or both, the better to calm muscles, ligaments and tendons that have been stressed by the unnatural act of throwing a baseball.",
+          "It was before the day of the ubiquitous automobile. Given one of those present adjuncts to farm life, John would have ended his career much earlier. As it was, they found him lying by the roadside at dawn one morning after the horses had trotted into the yard with the wreck of the buggy bumping the road behind them."
+        ]
+      },
+      {
+        "word": "underscore",
+        "meanings": [
+          "a line drawn under a word or phrase for emphasis.",
+          "underline (something)."
+        ],
+        "synonyms": [
+          [
+            "accentuate",
+            "bring out",
+            "emphasize",
+            "italicize",
+            "stress",
+            "underline"
+          ]
+        ],
+        "wordSentence": [
+          "These failures underscore the difficulty of what we're attempting to do.",
+          "The President's visit underscores the administration's commitment to free trade.",
+          "She underscored the most important points."
+        ]
+      },
+      {
+        "word": "venal",
+        "meanings": [
+          "showing or motivated by susceptibility to bribery; corrupt.\n\"local customs officers are notoriously venal\"\nSimilar:\ncorrupt\ncorruptible\nbribable\nopen to bribery\npurchasable\nbuyable"
+        ],
+        "synonyms": [
+          [
+            "bribable",
+            "corruptible",
+            "dirty",
+            "purchasable"
+          ]
+        ],
+        "wordSentence": [
+          "that judge is known for being venal and easily bought"
+        ]
+      },
+      {
+        "word": "venerate",
+        "meanings": [
+          "to have and show a lot of respect for somebody/something that is considered to be old, holy or very important"
+        ],
+        "synonyms": [
+          [
+            "adore",
+            "deify",
+            "glorify",
+            "revere",
+            "reverence",
+            "worship"
+          ]
+        ],
+        "wordSentence": [
+          "a writer venerated by generations of admirers",
+          "She is venerated as a saint."
+        ]
+      }
+    ]
+  }
+}

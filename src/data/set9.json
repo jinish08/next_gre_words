@@ -1,0 +1,833 @@
+{
+  "set9": {
+    "setNumber": 9,
+    "setName": "set9",
+    "words": [
+      {
+        "word": "boorish",
+        "meanings": [
+          "(used about people and their behaviour) very unpleasant and rude"
+        ],
+        "synonyms": [
+          [
+            "churlish",
+            "classless",
+            "cloddish",
+            "clownish",
+            "loutish",
+            "uncouth"
+          ]
+        ],
+        "wordSentence": [
+          "boorish behavior, such as yelling for service in restaurants"
+        ]
+      },
+      {
+        "word": "brook",
+        "meanings": [
+          "a small flow of water"
+        ],
+        "synonyms": [
+          [
+            "beck [British]",
+            "bourn",
+            "bourne",
+            "brooklet",
+            "burn [British]",
+            "creek",
+            "gill [British]",
+            "rill",
+            "rivulet",
+            "run [chiefly Midland]",
+            "runlet",
+            "runnel",
+            "streamlet"
+          ],
+          [
+            "abide",
+            "absorb",
+            "accept",
+            "bear",
+            "bide [chiefly dialect]",
+            "countenance",
+            "endure",
+            "go",
+            "hack",
+            "handle",
+            "meet",
+            "pocket",
+            "stand",
+            "stick out",
+            "stomach",
+            "support",
+            "sustain",
+            "sweat out",
+            "take",
+            "tolerate",
+            "wear [British]"
+          ]
+        ],
+        "wordSentence": [
+          "there are tiny fish and frogs in that brook",
+          "I will not brook insults from my own employees."
+        ]
+      },
+      {
+        "word": "circumspect",
+        "meanings": [
+          "thinking very carefully about something before you do it because you think it may involve problems or dangers"
+        ],
+        "synonyms": [
+          [
+            "alert",
+            "careful",
+            "cautious",
+            "chary",
+            "conservative",
+            "considerate",
+            "gingerly",
+            "guarded",
+            "heedful",
+            "safe",
+            "wary"
+          ]
+        ],
+        "wordSentence": [
+          "she has a reputation for being quiet and circumspect in investigating charges of child abuse"
+        ]
+      },
+      {},
+      {
+        "word": "commensurate",
+        "meanings": [
+          "corresponding in size, importance, quality, etc."
+        ],
+        "synonyms": [
+          [
+            "commensurable",
+            "proportional",
+            "proportionate"
+          ]
+        ],
+        "wordSentence": [
+          "Because the effects of tobacco are slow—and iterative—and produce diseases that have other causes and explanations, often later in life, they seldom arouse fear commensurate with their impact.",
+          "The last of the string family, the double bass, is the largest of all and must be played standing. Because it is seen in jazz bands, it has recently taken on an importance more nearly commensurate with its size.",
+          "… athletes are rewarded commensurate with their fame, not their intrinsic talent …",
+          "I find it interesting that the meanest life, the poorest existence, is attributed to God's will, but as human beings become more affluent, as their living standard and style begin to ascend the material scale, God descends the scale of responsibility at a commensurate speed."
+        ]
+      },
+      {
+        "word": "cordial",
+        "meanings": [
+          "pleasant and friendly"
+        ],
+        "synonyms": [
+          [
+            "amicable",
+            "bonhomous",
+            "buddy-buddy",
+            "chummy",
+            "collegial",
+            "companionable",
+            "comradely",
+            "friendly",
+            "genial",
+            "hail-fellow",
+            "hail-fellow-well-met",
+            "hearty",
+            "matey [chiefly British]",
+            "neighborly",
+            "palsy",
+            "palsy-walsy [slang]",
+            "warm",
+            "warmhearted"
+          ]
+        ],
+        "wordSentence": [
+          "… Conrad Black was cordial and not the least rumbustious.",
+          "Though its chairman, Charles Obi, was cordial to him, the others made it clear that they didn't want him.",
+          "My reception was cordial enough …"
+        ]
+      },
+      {
+        "word": "deleterious",
+        "meanings": [
+          "causing harm or damage.\n\"divorce is assumed to have deleterious effects on children\"\nSimilar:\nharmful\ndamaging\ndetrimental\ninjurious\ninimical\nhurtful\nbad"
+        ],
+        "synonyms": [
+          [
+            "adverse",
+            "bad",
+            "baleful",
+            "baneful",
+            "damaging",
+            "dangerous",
+            "detrimental",
+            "evil",
+            "harmful",
+            "hurtful",
+            "ill",
+            "injurious",
+            "mischievous",
+            "nocuous",
+            "noxious",
+            "pernicious",
+            "prejudicial",
+            "wicked"
+          ]
+        ],
+        "wordSentence": [
+          "In developing countries, the imposition of boundaries around national parks and protected areas has been deleterious for both people and wildlife.",
+          "Most everyone now knows the action of pressing mouse keys is far more deleterious to the tender structures of the wrist and hand than typing is.",
+          "This skewed allocation of resources away from those most in need, in turn, insures that many young people from low-income families will continue to be shut out of the economy, with obvious deleterious family and social consequences.",
+          "For as James Keirans pointed out to me, ticks are the world's most notorious carriers of the agents of diseases that strike animals, wild and domestic. And they rank second only to mosquitoes in their deleterious effect on humans."
+        ]
+      },
+      {
+        "word": "dichotomy",
+        "meanings": [
+          "the separation that exists between two groups or things that are completely opposite to and different from each other"
+        ],
+        "synonyms": [
+          [
+            "contradiction",
+            "incongruity",
+            "paradox"
+          ]
+        ],
+        "wordSentence": [
+          "The amusing spectacle of the recent presidential vote in Florida should remind us of the persistence of the federal-state dichotomy.",
+          "At the close of this millennium, the favored dichotomy features a supposed battle called \"the science wars.\"",
+          "… to insist on its being either symbol or fact is to dwell needlessly on a false dichotomy.",
+          "… the Inuit concept of their environment was centred around the dichotomy between land and sea."
+        ]
+      },
+      {
+        "word": "edify",
+        "meanings": [
+          "instruct or improve (someone) morally or intellectually.\n\"Rachel had edified their childhood with frequent readings from Belloc\"\nSimilar:\neducate\ninstruct\nteach\nschool\ntutor\ncoach\ntrain\nguide"
+        ],
+        "synonyms": [
+          [
+            "educate",
+            "enlighten",
+            "illume",
+            "illuminate",
+            "illumine",
+            "inspire",
+            "nurture"
+          ]
+        ],
+        "wordSentence": [
+          "These books will both entertain and edify readers.",
+          "a family-oriented show that tried to edify the television audience as well as entertain it"
+        ]
+      },
+      {
+        "word": "elicit",
+        "meanings": [
+          "to manage to get information, facts, a reaction, etc. from somebody"
+        ],
+        "synonyms": [
+          [
+            "educe",
+            "evoke",
+            "inspire",
+            "raise"
+          ]
+        ],
+        "wordSentence": [
+          "If ever there was a two-way pleasure street, it's the delight a baby takes in being tickled and the joy the parent experiences in the tumble of laughter it elicits.",
+          "Gingrich elicits perhaps the greatest sympathy when he talks about the challenge of graduating from a rabble-rousing backbencher in the House minority to presiding over (and trying to control) the first Republican majority in 40 years.",
+          "In a wild, captive wolf that is not socialized to man, approach will elicit flight and, if the wolf is cornered, a defensive reaction may be triggered, which is termed the critical-distance reaction.",
+          "She's been trying to elicit the support of other committee members."
+        ]
+      },
+      {
+        "word": "erudite",
+        "meanings": [
+          "having or showing great knowledge that is based on careful study"
+        ],
+        "synonyms": [
+          [
+            "educated",
+            "knowledgeable",
+            "learned",
+            "lettered",
+            "literate",
+            "scholarly",
+            "well-read"
+          ]
+        ],
+        "wordSentence": [
+          "He wasn't bashful about showing himself to be feverishly erudite,  … terminally droll, and a wizard phrasemaker.",
+          "… an engaging fellow: erudite, entertaining, intolerant of trendiness and fearlessly old-fashioned.  … He can turn a nice phrase, too.",
+          "He was well read, especially in the works of Kipling, a field in which Violet could give him a game, and from time to time they would exchange erudite letters about Kipling characters.",
+          "the most erudite people in medical research attended the conference",
+          "an erudite lecture on the latest discoveries in astronomy"
+        ]
+      },
+      {
+        "word": "fecund",
+        "meanings": [
+          "able to produce a lot of children, crops, young animals, etc.",
+          "producing and creating new and useful things, especially ideas"
+        ],
+        "synonyms": [
+          [
+            "cornucopian",
+            "fat",
+            "fertile",
+            "fructuous",
+            "fruitful",
+            "lush",
+            "luxuriant",
+            "productive",
+            "prolific",
+            "rich"
+          ]
+        ],
+        "wordSentence": [
+          "a fecund breed of cattle",
+          "the Franklin stove, bifocals, and the lightning rod are just a few of the inventions that we owe to the fecund creativity of Benjamin Franklin"
+        ]
+      },
+      {
+        "word": "feeble",
+        "meanings": [
+          "with no energy or power; weak",
+          "not able to make somebody believe something"
+        ],
+        "synonyms": [
+          [
+            "asthenic",
+            "debilitated",
+            "delicate",
+            "down-and-out",
+            "effete",
+            "enervated",
+            "enfeebled",
+            "faint",
+            "frail",
+            "infirm",
+            "languid",
+            "low",
+            "prostrate",
+            "prostrated",
+            "sapped",
+            "slight",
+            "soft",
+            "softened",
+            "tender",
+            "unsubstantial",
+            "wasted",
+            "weak",
+            "weakened",
+            "wimpish",
+            "wimpy"
+          ]
+        ],
+        "wordSentence": [
+          "She's still feeble from her long illness.",
+          "We heard a feeble cry for help.",
+          "Business is suffering because of the feeble economy.",
+          "He made a feeble attempt to explain his behavior."
+        ]
+      },
+      {
+        "word": "felicitous",
+        "meanings": [
+          "well chosen or suited to the circumstances.\n\"a felicitous phrase\"\nSimilar:\napt\nwell chosen\nwell expressed\nwell put\nchoice\nfitting\nsuitable",
+          "pleasing and fortunate.\n\"the view was the room's only felicitous feature\"\nSimilar:\nfortunate\nadvantageous\ngood\nfavourable\nlucky\nhappy"
+        ],
+        "synonyms": [
+          [
+            "agreeable",
+            "blessed",
+            "blest",
+            "congenial",
+            "darling",
+            "delectable",
+            "delicious",
+            "delightful",
+            "delightsome",
+            "dreamy",
+            "dulcet",
+            "enjoyable",
+            "good",
+            "grateful",
+            "gratifying",
+            "heavenly",
+            "jolly",
+            "luscious",
+            "nice",
+            "palatable",
+            "pleasant",
+            "pleasing",
+            "pleasurable",
+            "pretty",
+            "satisfying",
+            "savory",
+            "savoury",
+            "sweet",
+            "tasty",
+            "welcome"
+          ]
+        ],
+        "wordSentence": [
+          "a felicitous combination of flavors",
+          "a felicitous accompaniment to dinner is provided by a pianist on weekends at the restaurant"
+        ]
+      },
+      {
+        "word": "forbear",
+        "meanings": [
+          "a person in your family who lived a long time before you"
+        ],
+        "synonyms": [
+          [
+            "abjure",
+            "abstain (from)",
+            "forgo",
+            "forego",
+            "keep (from)",
+            "refrain (from)",
+            "withhold (from)"
+          ]
+        ],
+        "wordSentence": [
+          "He carefully forbore any mention of her name for fear of upsetting them.",
+          "We decided to forbear provoking him any further.",
+          "We decided to forbear from provoking him any further.",
+          "He forebore to mention her name."
+        ]
+      },
+      {
+        "word": "haphazard",
+        "meanings": [
+          "with no particular order or plan; badly organized"
+        ],
+        "synonyms": [
+          [
+            "aimless",
+            "arbitrary",
+            "catch-as-catch-can",
+            "desultory",
+            "erratic",
+            "helter-skelter",
+            "hit-or-miss",
+            "random",
+            "scattered",
+            "slapdash",
+            "stray"
+          ]
+        ],
+        "wordSentence": [
+          "We were given a haphazard tour of the city.",
+          "considering the haphazard way you measured the ingredients, it's a wonder the cookies came out this good"
+        ]
+      },
+      {
+        "word": "hodgepodge",
+        "meanings": [
+          "a confused mixture; a hotchpotch.\n\"Rob's living room was a hodgepodge of modern furniture and antiques\"\nSimilar:\nmixture\nmix\nmixed bag\nassortment\nassemblage\ncollection"
+        ],
+        "synonyms": [
+          [
+            "agglomerate",
+            "agglomeration",
+            "alphabet soup",
+            "assortment",
+            "botch",
+            "clutter",
+            "collage",
+            "crazy quilt",
+            "farrago",
+            "gallimaufry",
+            "grab bag",
+            "gumbo",
+            "hash",
+            "hotchpotch",
+            "jambalaya",
+            "jumble",
+            "jungle",
+            "litter",
+            "macédoine",
+            "medley",
+            "mélange",
+            "menagerie",
+            "miscellanea",
+            "miscellany",
+            "mishmash",
+            "mixed bag",
+            "montage",
+            "motley",
+            "muddle",
+            "olio",
+            "olla podrida",
+            "omnium-gatherum",
+            "pastiche",
+            "patchwork",
+            "patchwork quilt",
+            "potpourri",
+            "ragbag",
+            "ragout",
+            "rummage",
+            "salad",
+            "salmagundi",
+            "scramble",
+            "shuffle",
+            "smorgasbord",
+            "stew",
+            "tumble",
+            "variety",
+            "welter"
+          ]
+        ],
+        "wordSentence": [
+          "the exhibit was a hodgepodge of mediocre art, bad art, and really bad art"
+        ]
+      },
+      {
+        "word": "impede",
+        "meanings": [
+          "to make it difficult for somebody/something to move or go forward"
+        ],
+        "synonyms": [
+          [
+            "clog",
+            "cramp",
+            "embarrass",
+            "encumber",
+            "fetter",
+            "hamper",
+            "handcuff",
+            "handicap",
+            "hinder",
+            "hobble",
+            "hog-tie",
+            "hold back",
+            "hold up",
+            "inhibit",
+            "interfere (with)",
+            "manacle",
+            "obstruct",
+            "shackle",
+            "short-circuit",
+            "stymie",
+            "tie up",
+            "trammel"
+          ]
+        ],
+        "wordSentence": [
+          "He claims that economic growth is being impeded by government regulations.",
+          "The soldiers could not impede the enemy's advance."
+        ]
+      },
+      {
+        "word": "impetuous",
+        "meanings": [
+          "acting or done quickly and without thinking"
+        ],
+        "synonyms": [],
+        "wordSentence": [
+          "In one episode of \"The Sopranos,\" … the young, impetuous mobster Christopher Moltisanti … tries to write a screenplay in the hours when he is not robbing trucks or picking up cannolis for Tony.",
+          "And from the beginning, NASA was trapped beneath the dominoes, as the Soviets knocked off first satellite, first man in space, first earth orbit, first space walk. But it was Kennedy's impetuous science-fiction PR that really put the pressure on, when he promised to put an American on the moon by the end of the decade.",
+          "Men who don't wear hats are generally youthful, vigorous, impetuous, and have a devil-may-care glint in their eyes.",
+          "He's always been an impetuous young man."
+        ]
+      },
+      {
+        "word": "irascible",
+        "meanings": [
+          "having or showing a tendency to be easily angered.\n\"an irascible and difficult man\"\nSimilar:\nirritable\nquick-tempered\nshort-tempered\nbad-tempered\nill-tempered"
+        ],
+        "synonyms": [
+          [
+            "choleric",
+            "crabby",
+            "cranky",
+            "cross",
+            "crotchety",
+            "fiery",
+            "grouchy",
+            "grumpy",
+            "irritable",
+            "peevish",
+            "perverse",
+            "pettish",
+            "petulant",
+            "prickly",
+            "quick-tempered",
+            "raspy",
+            "ratty",
+            "short-tempered",
+            "snappish",
+            "snappy",
+            "snarky",
+            "snippety",
+            "snippy",
+            "stuffy",
+            "testy",
+            "waspish"
+          ]
+        ],
+        "wordSentence": [
+          "an irascible old football coach",
+          "He has an irascible disposition."
+        ]
+      },
+      {
+        "word": "mercenary",
+        "meanings": [
+          "interested only in making money",
+          "a soldier who fights for any group or country that will pay him/her"
+        ],
+        "synonyms": [
+          [
+            "acquisitive",
+            "avaricious",
+            "avid",
+            "coveting",
+            "covetous",
+            "grabby",
+            "grasping",
+            "greedy",
+            "moneygrubbing",
+            "rapacious"
+          ]
+        ],
+        "wordSentence": [
+          "an army of foreign mercenaries",
+          "His motives in choosing a career were purely mercenary.",
+          "they were a mercenary couple, who defined themselves not by what they were but by what they owned"
+        ]
+      },
+      {
+        "word": "meticulous",
+        "meanings": [
+          "giving or showing great attention to detail; very careful"
+        ],
+        "synonyms": [
+          [
+            "careful",
+            "conscientious",
+            "fussy",
+            "loving",
+            "painstaking",
+            "scrupulous"
+          ]
+        ],
+        "wordSentence": [
+          "Always meticulous about his appearance in the past, he had become dirty and unkempt, with straggly hair, stained clothes, and patches of silver stubble on his chin.",
+          "She was very much the craftswoman, all her work meticulous, slow, perfect.",
+          "In dense, meticulous arguments … Brooten mounts an assault on that view.",
+          "He described the scene in meticulous detail.",
+          "He is meticulous about keeping accurate records."
+        ]
+      },
+      {
+        "word": "mordant",
+        "meanings": [
+          "(especially of humour) having or showing a sharp or critical quality; biting.\n\"a mordant sense of humour\"\nSimilar:\ncaustic\ntrenchant\nbiting\ncutting\nacerbic\nsardonic\nsarcastic",
+          "a substance, typically an inorganic oxide, that combines with a dye or stain and thereby fixes it in a material.",
+          "a corrosive liquid used to etch the lines on a printing plate.",
+          "impregnate or treat (a fabric) with a mordant.\n\"mordanting a fibre is simple\"",
+          "mordant is sometimes confused with mordent"
+        ],
+        "synonyms": [
+          [
+            "acerb",
+            "acerbic",
+            "acid",
+            "acidic",
+            "acidulous",
+            "acrid",
+            "barbed",
+            "biting",
+            "caustic",
+            "corrosive",
+            "cutting",
+            "pungent",
+            "sarcastic",
+            "sardonic",
+            "satiric",
+            "satirical",
+            "scalding",
+            "scathing",
+            "sharp",
+            "smart-aleck",
+            "smart-alecky",
+            "smart-mouthed",
+            "snarky",
+            "tart"
+          ]
+        ],
+        "wordSentence": [
+          "a writer famous for her mordant humor",
+          "a mordant review of the movie that compared it to having one's teeth pulled for two hours"
+        ]
+      },
+      {
+        "word": "outstrip",
+        "meanings": [
+          "to become larger or greater in quantity than something else",
+          "to be better than somebody or be more successful"
+        ],
+        "synonyms": [
+          [
+            "beat",
+            "better",
+            "eclipse",
+            "exceed",
+            "excel",
+            "outclass",
+            "outdistance",
+            "outdo",
+            "outgun",
+            "outmatch",
+            "outshine",
+            "overtop",
+            "surpass",
+            "top",
+            "tower (over)",
+            "transcend"
+          ]
+        ],
+        "wordSentence": [
+          "The new hotel outstrips all other hotels in the area in size and luxury.",
+          "The fullback outstripped the defenders and scored a touchdown."
+        ]
+      },
+      {
+        "word": "precarious",
+        "meanings": [
+          "not safe or certain; dangerous"
+        ],
+        "synonyms": [],
+        "wordSentence": [
+          "These states are corrupt and brutal. They are theocracies, or precarious autocracies, or secular totalitarian states: tyrannies all, deniers of freedom, republics of fear, enemies of civility and human flourishing.",
+          "Such folks led a precarious existence, their homes routinely destroyed in pursuit of a scorched earth policy whenever Florence came under siege.",
+          "She was the first baby he had ever held; he had thought it would be a precarious experience, shot through with fear of dropping something so precious and fragile, but no, in even the smallest infant there was an adhesive force, a something that actively fit your arms and hands, banishing the fear.",
+          "He earned a precarious livelihood by gambling.",
+          "The strong wind almost knocked him off of his precarious perch on the edge of the cliff."
+        ]
+      },
+      {},
+      {
+        "word": "repudiate",
+        "meanings": [
+          "to say that you refuse to accept or believe something"
+        ],
+        "synonyms": [
+          [
+            "contradict",
+            "deny",
+            "disaffirm",
+            "disallow",
+            "disavow",
+            "disclaim",
+            "disconfirm",
+            "disown",
+            "gainsay",
+            "negate",
+            "negative",
+            "refute",
+            "reject"
+          ]
+        ],
+        "wordSentence": [
+          "During the Algerian war of independence, the United States had also repudiated France's claimed right to attack a town in neighboring Tunisia that succored Algerian guerrillas …",
+          "When witnessing abuse, boys will identify with the seemingly powerful father who appears to be a \"winner\" and will repudiate the mother, who seems to be the \"loser.\"",
+          "While a wife could divorce her husband only for good reason … a husband could repudiate his wife without giving any reason …",
+          "Voters in Myanmar … appeared today to have sharply repudiated their military rulers and to have given a landslide victory to the main opposition party …"
+        ]
+      },
+      {
+        "word": "tact",
+        "meanings": [
+          "the ability to deal with people without offending or upsetting them"
+        ],
+        "synonyms": [
+          [
+            "diplomacy",
+            "tactfulness"
+          ]
+        ],
+        "wordSentence": [
+          "Far from joining polite society like the debutants of the past, the kids gleefully rip through social graces, alienating friends and sacrificing tact all in the name of creating a VIP room filled with people too young to drive themselves home.",
+          "The attorney general's lack of restraint and want of tact, on such an occasion … were clearly symptomatic of a considerable irritation, even rage.",
+          "In society tact is the great art that makes for civility, for civilization …",
+          "He did not clear his throat with badinage, as timidity teaches us to do, nor did he waste his breath with tact."
+        ]
+      },
+      {
+        "word": "trifling",
+        "meanings": [
+          "very small or unimportant"
+        ],
+        "synonyms": [
+          [
+            "fiddling",
+            "foolish",
+            "frivolous",
+            "incidental",
+            "inconsequential",
+            "inconsiderable",
+            "insignificant",
+            "little",
+            "Mickey Mouse",
+            "minor",
+            "minute",
+            "negligible",
+            "nugatory",
+            "slight",
+            "small",
+            "small-fry",
+            "trivial",
+            "unimportant"
+          ]
+        ],
+        "wordSentence": [
+          "a trifling sum of money",
+          "deciding what you want to do for a living is no trifling matter"
+        ]
+      },
+      {
+        "word": "turbulent",
+        "meanings": [
+          "in which there is a lot of change, disorder and disagreement, and sometimes violence",
+          "(used about water or air) moving in a violent way"
+        ],
+        "synonyms": [
+          [
+            "bang-bang",
+            "blood-and-guts",
+            "convulsive",
+            "cyclonic",
+            "explosive",
+            "ferocious",
+            "fierce",
+            "furious",
+            "hammer-and-tongs",
+            "hot",
+            "knock-down, drag-out",
+            "knock-down-and-drag-out",
+            "paroxysmal",
+            "rabid",
+            "rough",
+            "stormy",
+            "tempestuous",
+            "tumultuous",
+            "violent",
+            "volcanic"
+          ]
+        ],
+        "wordSentence": [
+          "Turbulent waters caused the boat to capsize.",
+          "The sixties were a turbulent period in American history."
+        ]
+      }
+    ]
+  }
+}

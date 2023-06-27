@@ -1,0 +1,762 @@
+{
+  "set8": {
+    "setNumber": 8,
+    "setName": "set8",
+    "words": [
+      {
+        "word": "accentuate",
+        "meanings": [
+          "to emphasize something or make something easier to notice"
+        ],
+        "synonyms": [
+          [
+            "accent",
+            "emphasize",
+            "feature",
+            "foreground",
+            "highlight",
+            "illuminate",
+            "play up",
+            "point (up)",
+            "press",
+            "punctuate",
+            "stress"
+          ]
+        ],
+        "wordSentence": [
+          "He likes to wear clothes that accentuate his muscular build.",
+          "let's accentuate the saxophones during this piece by having the sax players stand up"
+        ]
+      },
+      {
+        "word": "conjectural",
+        "meanings": [
+          "based on or involving conjecture.\n\"the evidence was deemed too conjectural\"\nSimilar:\nspeculative\nsuppositional\ntheoretical\nhypothetical\nputative\nacademic"
+        ],
+        "synonyms": [
+          [
+            "academic",
+            "academical",
+            "hypothetical",
+            "speculative",
+            "suppositional",
+            "theoretical",
+            "theoretic"
+          ]
+        ],
+        "wordSentence": [
+          "a necessarily conjectural account of Shakespeare's life, since there is so little hard information"
+        ]
+      },
+      {
+        "word": "convivial",
+        "meanings": [
+          "happy and friendly in atmosphere or character"
+        ],
+        "synonyms": [
+          [
+            "boon",
+            "clubbable",
+            "clubable",
+            "clubby",
+            "companionable",
+            "extroverted",
+            "extraverted",
+            "gregarious",
+            "outgoing",
+            "sociable",
+            "social"
+          ]
+        ],
+        "wordSentence": [
+          "the hiking club attracts a wide range of convivial people who share a love of the outdoors"
+        ]
+      },
+      {
+        "word": "decadent",
+        "meanings": [],
+        "synonyms": [
+          [
+            "decayed",
+            "degenerate",
+            "effete",
+            "overripe",
+            "washed-up"
+          ],
+          [
+            "backslider",
+            "debauchee",
+            "debaucher",
+            "degenerate",
+            "deviate",
+            "libertine",
+            "perv",
+            "pervert",
+            "profligate",
+            "rake",
+            "rakehell",
+            "rip"
+          ]
+        ],
+        "wordSentence": [
+          "The book condemns some of society's wealthiest members as decadent fools.",
+          "a wealthy and decadent lifestyle",
+          "a decadent hotel room, complete with a hot tub"
+        ]
+      },
+      {
+        "word": "egregious",
+        "meanings": [
+          "outstandingly bad; shocking.\n\"egregious abuses of copyright\"\nSimilar:\nshocking\nappalling\nhorrific\nhorrifying\nhorrible\nterrible\nawful",
+          "egregious is sometimes confused with gregarious"
+        ],
+        "synonyms": [
+          [
+            "blatant",
+            "conspicuous",
+            "flagrant",
+            "glaring",
+            "gross",
+            "obvious",
+            "patent",
+            "pronounced",
+            "rank",
+            "striking"
+          ]
+        ],
+        "wordSentence": [
+          "… the public perception is that too many corporate executives have committed egregious breaches of trust by cooking the books, shading the truth, and enriching themselves with huge stock-option profits while shareholders suffered breathtaking losses.",
+          "History cannot be rewritten, but some of its more egregious errors can be corrected—at least in part, at least symbolically.  … Or so assume a growing number of human-rights advocates.",
+          "an egregious example of political bias",
+          "the student's theme was marred by a number of egregious errors in spelling"
+        ]
+      },
+      {
+        "word": "evanescent",
+        "meanings": [
+          "LITERARY\nsoon passing out of sight, memory, or existence; quickly fading or disappearing.\n\"the evanescent Arctic summer\"\nSimilar:\nvanishing\nfading\nevaporating\nmelting away\ndisappearing",
+          "PHYSICS\ndenoting a field or wave which extends into a region where it cannot propagate and whose amplitude therefore decreases with distance."
+        ],
+        "synonyms": [
+          [
+            "brief",
+            "deciduous",
+            "ephemeral",
+            "flash",
+            "fleeting",
+            "fugacious",
+            "fugitive",
+            "impermanent",
+            "momentary",
+            "passing",
+            "short-lived",
+            "temporary",
+            "transient",
+            "transitory"
+          ]
+        ],
+        "wordSentence": [
+          "beauty that is as evanescent as a rainbow"
+        ]
+      },
+      {
+        "word": "flamboyant",
+        "meanings": [
+          "(used about a person) acting in a loud, confident way that attracts attention",
+          "bright and easily noticed"
+        ],
+        "synonyms": [
+          [
+            "arresting",
+            "bodacious",
+            "bold",
+            "brilliant",
+            "catchy",
+            "commanding",
+            "conspicuous",
+            "dramatic",
+            "emphatic",
+            "eye-catching",
+            "grabby",
+            "kenspeckle [chiefly Scottish]",
+            "marked",
+            "noisy",
+            "noticeable",
+            "prominent",
+            "pronounced",
+            "remarkable",
+            "showy",
+            "splashy",
+            "striking"
+          ]
+        ],
+        "wordSentence": [
+          "Crazy artists, or flamboyant ones, can be strangely comforting. We feel we understand where their visions come from; we're lulled by the symmetry of turbulent art and turbulent lives.",
+          "Equally flamboyant is the group's singer, Andy Bell, who prances around the stage dressed at various times like an astronaut, a space creature or a Mexican senorita.",
+          "… he was living in the flamboyant, urbane manner he craved, in an apartment that suited his Balzacian fantasies of success …",
+          "the flamboyant gestures of the conductor",
+          "has a gallery of flamboyant gestures that makes him easy to imitate"
+        ]
+      },
+      {
+        "word": "forestall",
+        "meanings": [
+          "to take action to prevent somebody from doing something or something from happening"
+        ],
+        "synonyms": [
+          [
+            "avert",
+            "head off",
+            "help",
+            "obviate",
+            "preclude",
+            "prevent",
+            "stave off"
+          ]
+        ],
+        "wordSentence": [
+          "Negotiations failed to forestall the conflict.",
+          "His comments were meant to forestall criticism of his proposal.",
+          "He forestalled critics by offering a defense of the project."
+        ]
+      },
+      {
+        "word": "gainsay",
+        "meanings": [
+          "deny or contradict (a fact or statement).\n\"the impact of the railways cannot be gainsaid\"\nSimilar:\ndeny\ndispute\ndisagree with\nargue with\ndissent from\ncontradict",
+          "speak against or oppose (someone).\n\"none could gainsay her\""
+        ],
+        "synonyms": [
+          [
+            "contradict",
+            "deny",
+            "disaffirm",
+            "disallow",
+            "disavow",
+            "disclaim",
+            "disconfirm",
+            "disown",
+            "negate",
+            "negative",
+            "refute",
+            "reject",
+            "repudiate"
+          ]
+        ],
+        "wordSentence": [
+          "it can't be gainsaid that most people wish they had more time and money",
+          "repeatedly tried to gainsay me, though every point I made was backed up by facts"
+        ]
+      },
+      {
+        "word": "galvanize",
+        "meanings": [
+          "to cover iron or steel in a whitish metal (zinc) to protect it from being damaged by water (rusting)"
+        ],
+        "synonyms": [
+          [
+            "charge",
+            "electrify",
+            "excite",
+            "exhilarate",
+            "intoxicate",
+            "pump up",
+            "thrill",
+            "titillate",
+            "turn on"
+          ]
+        ],
+        "wordSentence": [
+          "The group is hoping to galvanize public opinion against the proposed law.",
+          "The website has galvanized support for the project.",
+          "a factory where steel is galvanized"
+        ]
+      },
+      {
+        "word": "indiscriminate",
+        "meanings": [
+          "done or acting without making sensible judgement or caring about the possible harmful effects"
+        ],
+        "synonyms": [
+          [
+            "assorted",
+            "eclectic",
+            "heterogeneous",
+            "kitchen-sink",
+            "magpie",
+            "miscellaneous",
+            "mixed",
+            "motley",
+            "patchwork",
+            "piebald",
+            "promiscuous",
+            "raggle-taggle",
+            "ragtag",
+            "varied"
+          ]
+        ],
+        "wordSentence": [
+          "They participated in the indiscriminate slaughter of countless innocent victims.",
+          "He objects to the indiscriminate use of pesticides.",
+          "She has been indiscriminate in choosing her friends."
+        ]
+      },
+      {},
+      {
+        "word": "momentary",
+        "meanings": [
+          "lasting for a very short time"
+        ],
+        "synonyms": [
+          [
+            "brief",
+            "deciduous",
+            "ephemeral",
+            "evanescent",
+            "flash",
+            "fleeting",
+            "fugacious",
+            "fugitive",
+            "impermanent",
+            "passing",
+            "short-lived",
+            "temporary",
+            "transient",
+            "transitory"
+          ]
+        ],
+        "wordSentence": [
+          "He experienced a momentary loss of consciousness.",
+          "the pain of the flu shot was only momentary"
+        ]
+      },
+      {
+        "word": "mundane",
+        "meanings": [
+          "ordinary; not interesting or exciting"
+        ],
+        "synonyms": [
+          [
+            "everyday",
+            "nitty-gritty",
+            "prosaic",
+            "terrestrial",
+            "workaday"
+          ]
+        ],
+        "wordSentence": [
+          "On him, a mundane navy blazer looked like an Armani dinner jacket; around him, a dusky locker room became the chandeliered lobby of the Savoy.",
+          "How did our ancestors pass from the mundane activity of counting to the concept of 'number' in the abstract, devoid of any particular collection of objects to label?",
+          "They decided on buttock tattoos, rather than the more mundane engagement ring, because a tattoo is permanent. You can always pawn a ring.",
+          "The day began with the mundane business of getting my white chiffon dress shortened …"
+        ]
+      },
+      {
+        "word": "nettlesome",
+        "meanings": [
+          "causing annoyance or difficulty.\n\"nettlesome regional disputes\""
+        ],
+        "synonyms": [
+          [
+            "abrasive",
+            "aggravating",
+            "annoying",
+            "bothersome",
+            "carking",
+            "chafing",
+            "disturbing",
+            "exasperating",
+            "frustrating",
+            "galling",
+            "irksome",
+            "irritating",
+            "maddening",
+            "nettling",
+            "peeving",
+            "pesky",
+            "pestiferous",
+            "pestilent",
+            "pestilential",
+            "pesty",
+            "plaguey",
+            "plaguy",
+            "rankling",
+            "rebarbative",
+            "riling",
+            "vexatious",
+            "vexing"
+          ]
+        ],
+        "wordSentence": [
+          "a few nettlesome details that still required attention"
+        ]
+      },
+      {
+        "word": "nullify",
+        "meanings": [
+          "to officially make an agreement, order, etc. lose its legal force",
+          "to make something have no effect, power or importance"
+        ],
+        "synonyms": [
+          [
+            "abate",
+            "abolish",
+            "abrogate",
+            "annul",
+            "avoid",
+            "cancel",
+            "disannul",
+            "dissolve",
+            "invalidate",
+            "negate",
+            "null",
+            "quash",
+            "repeal",
+            "rescind",
+            "roll back",
+            "strike down",
+            "vacate",
+            "void"
+          ]
+        ],
+        "wordSentence": [
+          "The law has been nullified by the U.S. Supreme Court.",
+          "The penalty nullified the goal."
+        ]
+      },
+      {
+        "word": "obviate",
+        "meanings": [
+          "to remove a difficulty, problem or the need for something"
+        ],
+        "synonyms": [
+          [
+            "avert",
+            "forestall",
+            "head off",
+            "help",
+            "preclude",
+            "prevent",
+            "stave off"
+          ]
+        ],
+        "wordSentence": [
+          "The new medical treatment obviates the need for surgery.",
+          "The new treatment obviates many of the risks associated with surgery."
+        ]
+      },
+      {
+        "word": "omnipresent",
+        "meanings": [
+          "present everywhere at the same time"
+        ],
+        "synonyms": [
+          [
+            "ubiquitous",
+            "universal",
+            "wall-to-wall"
+          ]
+        ],
+        "wordSentence": [
+          "The problem is omnipresent and unavoidable.",
+          "seeking some much-needed relief from the omnipresent noise of the big city"
+        ]
+      },
+      {
+        "word": "oust",
+        "meanings": [
+          "to force somebody out of a job or position of power, especially in order to take his/her place"
+        ],
+        "synonyms": [
+          [
+            "banish",
+            "boot (out)",
+            "bounce",
+            "cast out",
+            "chase",
+            "dismiss",
+            "drum (out)",
+            "eject",
+            "expel",
+            "extrude",
+            "kick out",
+            "out",
+            "rout",
+            "run off",
+            "throw out",
+            "turf (out) [chiefly British]",
+            "turn out"
+          ]
+        ],
+        "wordSentence": [
+          "The rebels ousted the dictator from power.",
+          "Large national banks are ousting local banks in many communities."
+        ]
+      },
+      {
+        "word": "palpable",
+        "meanings": [
+          "that is easily felt by the senses or the mind",
+          "that can be handled or touched"
+        ],
+        "synonyms": [
+          [
+            "appreciable",
+            "apprehensible",
+            "detectable",
+            "discernible",
+            "discernable",
+            "distinguishable",
+            "perceptible",
+            "sensible"
+          ]
+        ],
+        "wordSentence": [
+          "A positive patch-test result, measured by a visible and palpable localized response, denotes a delayed hypersensitivity response …",
+          "There's a palpable feeling of community here: owner Lee McLemore stocks the store with a surprisingly large wine selection, police chief Andy Williams moonlights in the prepared-foods section and barbecues in the parking lot, and George Watkins personally fills the shelves with his superb tupelo honey.",
+          "When I'm back in nature after months of walking around on concrete and living in boxes, I feel a palpable internal shift.",
+          "I felt a palpable sense of relief."
+        ]
+      },
+      {
+        "word": "perfidy",
+        "meanings": [
+          "the state of being deceitful and untrustworthy.\n\"it was an example of his perfidy\"\nSimilar:\ntreachery\nduplicity\ndeceit\nperfidiousness\ndeceitfulness\ndisloyalty"
+        ],
+        "synonyms": [
+          [
+            "disloyalty",
+            "faithlessness",
+            "falseness",
+            "falsity",
+            "inconstancy",
+            "infidelity",
+            "perfidiousness",
+            "unfaithfulness"
+          ]
+        ],
+        "wordSentence": [
+          "A man who built his entire administration upon demanding unctuous loyalty from his allies now finds himself wounded by their shabby betrayal. You'd have to go back to one of Spain's humpbacked Hapsburgs to find court perfidy of the variety that is currently depleting the president's power.",
+          "The petty Robespierres on the public stage appeal to \"the real America\" to rise up in fury against presidential perfidies; yet in poll after poll the real America keeps telling Washington that it has gone bonkers.",
+          "I lived there off and on for twenty years, through graduate studies, marriage, the end of marriage, the perfidies of middle age, all the while unaware of passion.",
+          "They are guilty of perfidy.",
+          "his wife's perfidy was a moment of uncharacteristic weakness"
+        ]
+      },
+      {
+        "word": "profuse",
+        "meanings": [
+          "given or produced in great quantity"
+        ],
+        "synonyms": [
+          [
+            "copious",
+            "galore",
+            "gushing",
+            "lavish",
+            "riotous"
+          ]
+        ],
+        "wordSentence": [
+          "He offered profuse apologies for being late.",
+          "They were profuse in their thanks."
+        ]
+      },
+      {
+        "word": "pugnacious",
+        "meanings": [
+          "very eager to start an argument or fight; expressing an opinion very strongly"
+        ],
+        "synonyms": [
+          [
+            "aggressive",
+            "agonistic",
+            "argumentative",
+            "assaultive",
+            "bellicose",
+            "belligerent",
+            "brawly",
+            "chippy",
+            "combative",
+            "confrontational",
+            "contentious",
+            "discordant",
+            "disputatious",
+            "feisty",
+            "gladiatorial",
+            "militant",
+            "quarrelsome",
+            "scrappy",
+            "truculent",
+            "warlike"
+          ]
+        ],
+        "wordSentence": [
+          "That's a bass for you: pugnacious, adaptable and ever ready to demonstrate that the first order of business on any given day, drought or no drought, is eating anything that it can fit its big, powerful mouth around.",
+          "Herz sees himself as a pugnacious sardine going up against rule-flouting sharks.",
+          "He was a short man with heavy shoulders, a slight potbelly, puffy blue eyes, and a pugnacious expression.",
+          "Podhoretz takes a more pugnacious and protesting stance, insisting on the word \"seriousness\" at all times and punctuating it with the word \"moral\"."
+        ]
+      },
+      {
+        "word": "sagacious",
+        "meanings": [
+          "having or showing good judgement and understanding"
+        ],
+        "synonyms": [
+          [
+            "discerning",
+            "insightful",
+            "perceptive",
+            "prudent",
+            "sage",
+            "sapient",
+            "wise"
+          ]
+        ],
+        "wordSentence": [
+          "… the winner is praised for his sagacious grasp of the hopes and anxieties of the public, the loser is excoriated for the many and obvious blunders that derailed his candidacy …",
+          "It has allowed him to pre-empt conservative political attacks, to appear sagacious despite his inexperience …",
+          "With commendably sagacious foresight, I sneaked spoils as well to the elders of key Judean cities whose good will I was cultivating for the future …",
+          "It has been suggested that we go to sleep at night because it is then too dark to do anything else; but owls, who are a venerably sagacious folk, do not sleep in the night-time.",
+          "a sagacious critique of the current social climate in our nation"
+        ]
+      },
+      {
+        "word": "sanguine",
+        "meanings": [
+          "cheerful, hopeful and confident about the future"
+        ],
+        "synonyms": [
+          [
+            "bloodthirsty",
+            "bloody",
+            "bloody-minded",
+            "homicidal",
+            "murdering",
+            "murderous",
+            "sanguinary",
+            "sanguineous"
+          ]
+        ],
+        "wordSentence": [
+          "He has been strangely sanguine about this, blandly ignoring the mounting evidence that dissident elements in the police are stirring trouble …",
+          "How could a man of his caliber be this sanguine about a war we had barely begun to fight? He gave me the McNamara look, eyes focusing boldly through rimless glasses. \"Every quantitative measurement we have shows that we're winning this war,\" he said.",
+          "Yet if there were sanguine expectations of war profits and unlimited booty from the Spanish empire, … those hopes were dramatically confounded …"
+        ]
+      },
+      {
+        "word": "scant",
+        "meanings": [
+          "not very much; not as much as necessary"
+        ],
+        "synonyms": [
+          [
+            "exiguous",
+            "hand-to-mouth",
+            "light",
+            "meager",
+            "meagre",
+            "niggardly",
+            "poor",
+            "scanty",
+            "scarce",
+            "skimp",
+            "skimpy",
+            "slender",
+            "slim",
+            "spare",
+            "sparing",
+            "sparse",
+            "stingy"
+          ],
+          [
+            "nurse",
+            "skimp (on)",
+            "spare",
+            "stint (on)"
+          ]
+        ],
+        "wordSentence": [
+          "Food was in scant supply.",
+          "She paid scant attention to the facts.",
+          "Police found scant evidence of fraud.",
+          "don't scant the peanut butter on those sandwiches!"
+        ]
+      },
+      {
+        "word": "skullduggery",
+        "meanings": [
+          "underhand, unscrupulous, or dishonest behaviour or activities.\n\"a firm that investigates commercial skulduggery\"\nSimilar:\ntrickery\nswindling\nfraudulence\ndouble-dealing\nsharp practice"
+        ],
+        "synonyms": [
+          [
+            "artifice",
+            "chicane",
+            "chicanery",
+            "gamesmanship",
+            "hanky-panky",
+            "jiggery-pokery",
+            "jugglery",
+            "legerdemain",
+            "subterfuge",
+            "trickery",
+            "wile"
+          ]
+        ],
+        "wordSentence": [
+          "tales of espionage and skulduggery",
+          "the company's apparently healthy bottom line was merely an illusion, the result of years of accounting skulduggery"
+        ]
+      },
+      {
+        "word": "trivial",
+        "meanings": [
+          "of little importance; not worth considering"
+        ],
+        "synonyms": [
+          [
+            "fiddling",
+            "foolish",
+            "frivolous",
+            "incidental",
+            "inconsequential",
+            "inconsiderable",
+            "insignificant",
+            "little",
+            "Mickey Mouse",
+            "minor",
+            "minute",
+            "negligible",
+            "nugatory",
+            "slight",
+            "small",
+            "small-fry",
+            "trifling",
+            "unimportant"
+          ]
+        ],
+        "wordSentence": [
+          "His later memory, untutored and unsupported by anything so trivial as evidence or documents, now flourished and ran wild.",
+          "I had never heard anyone speak of their parents in this way; I never even knew you could make them seem trivial …",
+          "But the last tribute was to be a struggle among states for possession of the trivial remains of a man who in life had known as much revilement as honor.",
+          "statistics and other trivial matters"
+        ]
+      },
+      {},
+      {
+        "word": "vapid",
+        "meanings": [
+          "without any intelligence or interest"
+        ],
+        "synonyms": [],
+        "wordSentence": [
+          "Waiting rooms, as I'm sure you know, are small rooms with plenty of chairs for waiting, as well as piles of old, dull magazines to read and some vapid paintings … while you endure the boredom that doctors and dentists inflict on their patients before bringing them in to poke them and prod them and do all the miserable things that such people are paid to do.",
+          "In a secular age, symbolic rituals such as lighting the Olympic torch inevitably risk seeming a little vapid.",
+          "… the incompetent servant, by whomsoever employed, is always against his employer. Even those born governors, noble and right honourable creatures, who have been the most imbecile in high places, have uniformly shown themselves the most opposed (sometimes in belying distrust, sometimes in vapid insolence) to THEIR employer. What is in such wise true of the public master and servant, is equally true of the private master and servant all the world over.",
+          "a song with vapid lyrics"
+        ]
+      }
+    ]
+  }
+}
