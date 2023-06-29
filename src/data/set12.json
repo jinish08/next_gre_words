@@ -1,0 +1,759 @@
+{
+  "set12": {
+    "setNumber": 12,
+    "setName": "set12",
+    "words": [
+      {
+        "word": "acrimonious",
+        "meanings": [],
+        "synonyms": [
+          [
+            "acrid",
+            "bitter",
+            "embittered",
+            "hard",
+            "rancorous",
+            "resentful",
+            "sore"
+          ]
+        ],
+        "wordSentence": [
+          "Each man came out of their acrimonious 200-meter showdown on July 23 with an injured hamstring and a decidedly negative vibe.",
+          "My May 19, 1967, memorandum to the president unleashed a storm of controversy.  … It led to tense and acrimonious Senate hearings that pitted me against the Joint Chiefs of Staff and generated rumors they intended to resign en masse.",
+          "But considering the momentousness of the issue, the original Darwinian debate was far less acrimonious than might have been expected …",
+          "We could tell, however, when debate became more acrimonious than professional, but this was from watching lawyers other than our father."
+        ]
+      },
+      {
+        "word": "belligerent",
+        "meanings": [
+          "unfriendly and aggressive",
+          "(used about a country) fighting a war"
+        ],
+        "synonyms": [
+          [
+            "aggressive",
+            "agonistic",
+            "argumentative",
+            "assaultive",
+            "bellicose",
+            "brawly",
+            "chippy",
+            "combative",
+            "confrontational",
+            "contentious",
+            "discordant",
+            "disputatious",
+            "feisty",
+            "gladiatorial",
+            "militant",
+            "pugnacious",
+            "quarrelsome",
+            "scrappy",
+            "truculent",
+            "warlike"
+          ]
+        ],
+        "wordSentence": [
+          "… it took very little alcohol to make him belligerent, and he became even more thuggish and incoherent when he threw in a few sleeping pills as well.",
+          "Coots are belligerent, territorial, quick-tempered birds. Nothing irritates a coot like another coot …",
+          "Instead, we revered the guys on the streets, the thugs who were brazen and belligerent. They wore their hats backwards, left their belt buckles unfastened and shoelaces untied.",
+          "She was a brigantine, a small two-masted vessel, refitted for belligerent action in the newly created American Navy."
+        ]
+      },
+      {
+        "word": "beneficent",
+        "meanings": [
+          "(of a person) generous or doing good.\n\"a beneficent landowner\"\nSimilar:\nbenevolent\ncharitable\naltruistic\nhumane\nhumanitarian\nneighbourly",
+          "resulting in good.\n\"a beneficent democracy\""
+        ],
+        "synonyms": [
+          [
+            "benevolent",
+            "benignant",
+            "compassionate",
+            "good-hearted",
+            "humane",
+            "kind",
+            "kindhearted",
+            "kindly",
+            "softhearted",
+            "sympathetic",
+            "tender",
+            "tenderhearted",
+            "warmhearted"
+          ]
+        ],
+        "wordSentence": [
+          "a humane and beneficent policy",
+          "a beneficent couple who are regular volunteers at a homeless shelter"
+        ]
+      },
+      {
+        "word": "canny",
+        "meanings": [
+          "having or showing shrewdness and good judgement, especially in money or business matters.\n\"canny investors will switch banks if they think they are getting a raw deal\"\nSimilar:\nshrewd\nastute\nsharp\nsharp-witted\ndiscerning\nacute",
+          "NORTHERN ENGLISH•SCOTTISH\npleasant; nice.\n\"she's a canny lass\""
+        ],
+        "synonyms": [
+          [
+            "astute",
+            "clear-eyed",
+            "clear-sighted",
+            "hard-boiled",
+            "hardheaded",
+            "heady",
+            "knowing",
+            "savvy",
+            "sharp",
+            "sharp-witted",
+            "shrewd",
+            "smart"
+          ]
+        ],
+        "wordSentence": [
+          "a canny card player, good at psyching out his opponents",
+          "warm and canny under the woolen bedcovers, we didn't mind the chilly Scottish nights"
+        ]
+      },
+      {
+        "word": "cavalier",
+        "meanings": [
+          "HISTORICAL\na supporter of King Charles I in the English Civil War.\nSimilar:\nRoyalist\nking's man",
+          "a small spaniel of a breed with a long snout.",
+          "showing a lack of proper concern; offhand.\n\"Anne was irritated by his cavalier attitude\"\nSimilar:\noffhand\nindifferent\ncasual\ndismissive\ninsouciant\nuninterested"
+        ],
+        "synonyms": [
+          [
+            "arrogant",
+            "assumptive",
+            "bumptious",
+            "chesty",
+            "haughty",
+            "high-and-mighty",
+            "high-handed",
+            "high-hat",
+            "highfalutin",
+            "hifalutin",
+            "huffish",
+            "huffy",
+            "imperious",
+            "important",
+            "lofty",
+            "lordly",
+            "masterful",
+            "overweening",
+            "peremptory",
+            "pompous",
+            "presuming",
+            "presumptuous",
+            "pretentious",
+            "self-asserting",
+            "self-assertive",
+            "sniffy",
+            "stiff-necked",
+            "supercilious",
+            "superior",
+            "toplofty",
+            "toploftical",
+            "uppish",
+            "uppity"
+          ],
+          [
+            "gentleman"
+          ]
+        ],
+        "wordSentence": [
+          "They are too cavalier in their treatment of others.",
+          "She has a cavalier attitude about spending money.",
+          "He has a cavalier disregard for the rights of others.",
+          "a novel about the dashing cavaliers and gracious ladies of the South before the Civil War"
+        ]
+      },
+      {
+        "word": "distressed",
+        "meanings": [],
+        "synonyms": [],
+        "wordSentence": [
+          "She felt emotionally and physically distressed.",
+          "The government provided funds to the economically distressed city.",
+          "Donations were given to financially distressed families."
+        ]
+      },
+      {
+        "word": "dwindling",
+        "meanings": [
+          "to become smaller or weaker"
+        ],
+        "synonyms": [
+          [
+            "abate",
+            "de-escalate",
+            "decrease",
+            "dent",
+            "deplete",
+            "diminish",
+            "downscale",
+            "downsize",
+            "drop",
+            "ease",
+            "knock down",
+            "lessen",
+            "lower",
+            "reduce"
+          ]
+        ],
+        "wordSentence": [
+          "Our energy dwindled as the meeting dragged on.",
+          "The town's population is dwindling away."
+        ]
+      },
+      
+      {
+        "word": "encyclopedic",
+        "meanings": [
+          "comprehensive in terms of information.\n\"he has an almost encyclopedic knowledge of food\"\nSimilar:\ncomprehensive\ncomplete\nthorough\nthoroughgoing\nfull",
+          "relating to encyclopedias or information suitable for an encyclopedia.\n\"a dictionary with encyclopedic material\""
+        ],
+        "synonyms": [
+          [
+            "all-embracing",
+            "all-in [chiefly British]",
+            "all-inclusive",
+            "broad-gauge",
+            "broad-gauged",
+            "compendious",
+            "complete",
+            "comprehensive",
+            "cover-all",
+            "cyclopedic",
+            "embracive",
+            "exhaustive",
+            "full",
+            "global",
+            "inclusive",
+            "in-depth",
+            "omnibus",
+            "panoramic",
+            "thorough",
+            "universal"
+          ]
+        ],
+        "wordSentence": [
+          "She published an encyclopedic study of ancient Egypt.",
+          "The event was described in encyclopedic detail.",
+          "his almost encyclopedic knowledge of movies"
+        ]
+      },
+      {
+        "word": "exacerbate",
+        "meanings": [
+          "to make something worse, especially a disease or problem"
+        ],
+        "synonyms": [
+          [
+            "aggravate",
+            "complicate",
+            "worsen"
+          ]
+        ],
+        "wordSentence": [
+          "The declining retirement security faced by growing numbers of Americans is being exacerbated by increasing longevity and quickly rising health care costs.",
+          "… the sway that pack journalism holds on the Beltway press corps persists. The Crowd is never so influential as in the ever-lengthening season of presidential campaigns. The feverish obsessions of the blogosphere have only exacerbated the phenomenon: Now the herd just turns faster in pursuit of some ginned-up \"controversy\" or faux scandal.",
+          "The proposed factory shutdown would only exacerbate our unemployment problems.",
+          "His angry comments have exacerbated tensions in the negotiation process."
+        ]
+      },
+      
+      {
+        "word": "fungible",
+        "meanings": [
+          "(of a product or commodity) replaceable by another identical item; mutually interchangeable.\n\"it is by no means the world's only fungible commodity\""
+        ],
+        "synonyms": [
+          [
+            "commutable",
+            "exchangeable",
+            "interchangeable",
+            "substitutable",
+            "switchable"
+          ]
+        ],
+        "wordSentence": [
+          "since fruits and vegetables are regarded as fungible in this diet, you are allowed a total of five servings of either or both"
+        ]
+      },
+      {
+        "word": "hackneyed",
+        "meanings": [
+          "(used about phrases, ideas, fashion etc.) boring because it has been used too often"
+        ],
+        "synonyms": [
+          [
+            "banal",
+            "cliché",
+            "cliche",
+            "clichéd",
+            "cobwebby",
+            "commonplace",
+            "hack",
+            "hackney",
+            "moth-eaten",
+            "musty",
+            "obligatory",
+            "shopworn",
+            "stale",
+            "stereotyped",
+            "threadbare",
+            "timeworn",
+            "tired",
+            "trite",
+            "well-worn"
+          ]
+        ],
+        "wordSentence": [
+          "it's hackneyed, but true—the more you save the more you earn"
+        ]
+      },
+      {
+        "word": "incongruous",
+        "meanings": [
+          "strange and out of place; not suitable in a particular situation"
+        ],
+        "synonyms": [
+          [
+            "amiss",
+            "graceless",
+            "improper",
+            "inapposite",
+            "inappropriate",
+            "inapt",
+            "incorrect",
+            "indecorous",
+            "inept",
+            "infelicitous",
+            "malapropos",
+            "perverse",
+            "unapt",
+            "unbecoming",
+            "unfit",
+            "unhappy",
+            "unseemly",
+            "unsuitable",
+            "untoward",
+            "wrong"
+          ]
+        ],
+        "wordSentence": [
+          "There is something incongruous about Oslo.",
+          "… it would be as incongruous to meet her at the end of a chapter as it would be to see the dawn break in the west …",
+          "He ate enormously, with a zest which seemed incongruous with his spare frame.",
+          "His outburst seemed incongruous to those who know him well.",
+          "there's an incongruous modernism to the actor's performance in this period piece"
+        ]
+      },
+      {
+        "word": "interchangeable",
+        "meanings": [
+          "able to be used in place of each other without making any difference to the way something works"
+        ],
+        "synonyms": [
+          [
+            "commutable",
+            "exchangeable",
+            "fungible",
+            "substitutable",
+            "switchable"
+          ]
+        ],
+        "wordSentence": [
+          "the concept of interchangeable parts revolutionized the mass production of manufactured goods"
+        ]
+      },
+      {
+        "word": "laconic",
+        "meanings": [
+          "using only a few words to say something"
+        ],
+        "synonyms": [
+          [
+            "aphoristic",
+            "apothegmatic",
+            "brief",
+            "capsule",
+            "compact",
+            "compendious",
+            "concise",
+            "crisp",
+            "curt",
+            "elliptical",
+            "elliptic",
+            "epigrammatic",
+            "monosyllabic",
+            "pithy",
+            "sententious",
+            "succinct",
+            "summary",
+            "telegraphic",
+            "terse",
+            "thumbnail"
+          ]
+        ],
+        "wordSentence": [
+          "We would rather have a smiling, shape-shifting Democrat we don't trust than a frowning, laconic Republican we trust more.",
+          "The closest anyone comes to announcing his destination is a laconic \"Guess I'll head on in.\"",
+          "… towards the father—laconic, authoritarian, remote, an immigrant who'd trained in Galicia to be a rabbi but worked in America in a hat factory—their feelings were more confused.",
+          "He had a reputation for being laconic.",
+          "the sportscaster's color commentary tends to be laconic but very much to the point"
+        ]
+      },
+      {
+        "word": "lucrative",
+        "meanings": [
+          "allowing somebody to earn a lot of money"
+        ],
+        "synonyms": [
+          [
+            "economic",
+            "fat",
+            "gainful",
+            "juicy",
+            "money-spinning [chiefly British]",
+            "moneymaking",
+            "paying",
+            "profitable",
+            "remunerative"
+          ]
+        ],
+        "wordSentence": [
+          "Their success has given Gladwell an active, and extremely lucrative, second career as a public speaker. Much in demand, he is paid in the neighborhood of $40,000 per lecture.",
+          "Clubs take care of their star and other best players first, paying them lucrative salaries. By the time they get to the bottom half of the roster, they would not have enough money left to pay veterans worthwhile salaries …",
+          "Since the health care industry is lucrative and largely insulated from the usual disciplines of the marketplace, it has been able to absorb an ever-growing fraction of the gross domestic product.",
+          "The learned profession of the law was certainly not behind any other learned profession in its Bacchanalian propensities; neither was Mr. Stryver, already fast shouldering his way to a large and lucrative practice, behind his compeers in this particular, any more than in the drier parts of the legal race."
+        ]
+      },
+      {
+        "word": "magisterial",
+        "meanings": [
+          "(especially of a person or their behaviour) having or seeming to have power or authority",
+          "(of a book or piece of writing) having great knowledge or understanding"
+        ],
+        "synonyms": [
+          [
+            "authoritative",
+            "classic",
+            "classical",
+            "definitive"
+          ]
+        ],
+        "wordSentence": [
+          "He spoke with a magisterial tone.",
+          "a magisterial biography of Thomas Jefferson that has never been superseded"
+        ]
+      },
+      {
+        "word": "onerous",
+        "meanings": [
+          "difficult and needing a lot of effort"
+        ],
+        "synonyms": [
+          [
+            "bitter",
+            "brutal",
+            "burdensome",
+            "cruel",
+            "excruciating",
+            "grievous",
+            "grim",
+            "hard",
+            "hardhanded",
+            "harsh",
+            "heavy",
+            "inhuman",
+            "murderous",
+            "oppressive",
+            "rough",
+            "rugged",
+            "searing",
+            "severe",
+            "stiff",
+            "tough",
+            "trying"
+          ]
+        ],
+        "wordSentence": [
+          "Then everyone was asked, how fairly did you act?, from \"extremely unfairly\" (1) to \"extremely fairly\" (7). Next they watched someone else make the assignments, and judged that person's ethics. Selflessness was a virtual no-show: 87 out of 94 people opted for the easy task and gave the next guy the onerous one.",
+          "The first hitch occurred when the state education department took a full six months after the new law was adopted to issue 12 pages of onerous rules and regulations governing Arkansas charter schools.",
+          "Environmentalism poses stark issues of survival, for humankind and for all those other tribes of creatures over which we have exercised our onerous dominion.",
+          "Rap tested well, but early on the promoters said they wouldn't be booking any gangsta rap, a move at least partly designed to calm security concerns during the onerous process of complying with the strict mass-gathering laws enacted in the wake of the 1969 festival."
+        ]
+      },
+      {
+        "word": "opprobrium",
+        "meanings": [
+          "harsh criticism or censure.\n\"the critical opprobrium generated by his films\"\nSimilar:\nvilification\nabuse\nvituperation\ncondemnation\ncriticism\ncensure",
+          "public disgrace arising from shameful conduct.\n\"the opprobrium of being closely associated with gangsters\"\nSimilar:\ndisgrace\nshame\ndishonour\ndiscredit\nstigma\nhumiliation",
+          "ARCHAIC\nan occasion or cause of reproach or disgrace.\nplural noun: opprobriums"
+        ],
+        "synonyms": [
+          [
+            "disgrace",
+            "dishonor",
+            "reflection",
+            "reproach",
+            "scandal"
+          ]
+        ],
+        "wordSentence": [
+          "They're going ahead with the plan despite public opprobrium.",
+          "saw no reason why “secretary” should suddenly become a term of opprobrium among the politically correct"
+        ]
+      },
+      {
+        "word": "parsimonious",
+        "meanings": [
+          "very unwilling to spend money or use resources.\n\"even the parsimonious Joe paid for drinks all round\"\nSimilar:\nmiserly\nungenerous\nclose-fisted\npenny-pinching\ncheese-paring"
+        ],
+        "synonyms": [
+          [
+            "cheap",
+            "chintzy",
+            "close",
+            "closefisted",
+            "mean",
+            "mingy",
+            "miserly",
+            "niggard",
+            "niggardly",
+            "penny-pinching",
+            "penurious",
+            "pinching",
+            "pinchpenny",
+            "spare",
+            "sparing",
+            "stingy",
+            "stinting",
+            "tight",
+            "tightfisted",
+            "uncharitable",
+            "ungenerous"
+          ]
+        ],
+        "wordSentence": [
+          "A society that is parsimonious in its personal charity (in terms of both time and money) will require more government welfare.",
+          "Their merchant princes were supposed to be parsimonious and austere: fustian in apparel and coarse in diet.",
+          "With saints, Dante is apathetic. They are written with a dry pen, and parsimonious vision.",
+          "a parsimonious woman who insists that charity begins—and ends—at home"
+        ]
+      },
+      {
+        "word": "peripheral",
+        "meanings": [
+          "not as important as the main aim, part, etc. of something",
+          "connected with the outer edge of a particular area",
+          "a piece of equipment that is connected to a computer, for example a printer"
+        ],
+        "synonyms": [
+          [
+            "accessorial",
+            "accessory",
+            "appurtenant",
+            "auxiliary",
+            "supplemental",
+            "supplementary"
+          ]
+        ],
+        "wordSentence": [
+          "If we focus too much on peripheral issues, we will lose sight of the goal.",
+          "peripheral devices such as modems and scanners",
+          "He saw in his peripheral vision that a car was trying to pass him."
+        ]
+      },
+      {
+        "word": "provocative",
+        "meanings": [
+          "intended to make somebody angry or upset or to cause an argument",
+          "intended to cause sexual excitement"
+        ],
+        "synonyms": [
+          [
+            "charged",
+            "edgy",
+            "exciting",
+            "inciting",
+            "instigating",
+            "instigative",
+            "piquing",
+            "provoking",
+            "stimulating"
+          ]
+        ],
+        "wordSentence": [
+          "a thoughtful and provocative book",
+          "It was one of his more provocative suggestions.",
+          "She was wearing a very provocative outfit."
+        ]
+      },
+      {
+        "word": "renounce",
+        "meanings": [
+          "to say formally that you no longer want to have something or to be connected with something"
+        ],
+        "synonyms": [
+          [
+            "abdicate",
+            "abnegate",
+            "cede",
+            "relinquish",
+            "resign",
+            "step aside (from)",
+            "step down (from)",
+            "surrender"
+          ]
+        ],
+        "wordSentence": [
+          "Many of his former supporters have renounced him.",
+          "He renounced his old way of life."
+        ]
+      },
+      {
+        "word": "tempestuous",
+        "meanings": [
+          "(used about a relationship, period of time, etc.) involving a lot of difficulty and extreme or strong emotions",
+          "(used about the sea, wind, weather, etc.) caused or affected by a violent storm"
+        ],
+        "synonyms": [
+          [
+            "bang-bang",
+            "blood-and-guts",
+            "convulsive",
+            "cyclonic",
+            "explosive",
+            "ferocious",
+            "fierce",
+            "furious",
+            "hammer-and-tongs",
+            "hot",
+            "knock-down, drag-out",
+            "knock-down-and-drag-out",
+            "paroxysmal",
+            "rabid",
+            "rough",
+            "stormy",
+            "tumultuous",
+            "turbulent",
+            "violent",
+            "volcanic"
+          ]
+        ],
+        "wordSentence": [
+          "order was restored to the court after the judge put a stop to the defendant's tempestuous outburst",
+          "in terms of social change, the 1960s are generally considered the most tempestuous decade in recent American history"
+        ]
+      },
+      {
+        "word": "tenable",
+        "meanings": [
+          "(used about a theory, opinion, etc.) able to be defended against attack or criticism",
+          "(used about a job in a university) that can be held for a particular period of time"
+        ],
+        "synonyms": [
+          [
+            "defendable",
+            "defensible"
+          ]
+        ],
+        "wordSentence": [
+          "the soldiers' encampment on the open plain was not tenable, so they retreated to higher ground",
+          "the tenable theory that a giant meteor strike set off a chain of events resulting in the demise of the dinosaurs"
+        ]
+      },
+      {
+        "word": "transgression",
+        "meanings": [],
+        "synonyms": [
+          [
+            "breach",
+            "crime",
+            "debt",
+            "error",
+            "lawbreaking",
+            "malefaction",
+            "misdeed",
+            "misdoing",
+            "offense",
+            "offence",
+            "sin",
+            "trespass",
+            "violation",
+            "wrongdoing"
+          ]
+        ],
+        "wordSentence": [
+          "acts that are transgressions against the laws of civilized societies everywhere",
+          "a dying woman asking for divine forgiveness for a lifetime of transgressions"
+        ]
+      },
+      {
+        "word": "urbane",
+        "meanings": [
+          "(used especially about a man) good at knowing what to say and how to behave in social situations; appearing relaxed and confident"
+        ],
+        "synonyms": [
+          [
+            "debonair",
+            "smooth",
+            "sophisticated",
+            "suave",
+            "svelte"
+          ]
+        ],
+        "wordSentence": [
+          "The dialogue is witty and urbane.",
+          "a gentlemanly and urbane host of elegant dinner parties"
+        ]
+      },
+      {
+        "word": "verisimilitude",
+        "meanings": [
+          "the appearance or quality of seeming to be true or real"
+        ],
+        "synonyms": [
+          [
+            "literalism",
+            "naturalism",
+            "realism",
+            "representationalism",
+            "verismo"
+          ]
+        ],
+        "wordSentence": [
+          "the novel's degree of verisimilitude is compromised by 18th-century characters who speak in very 21st-century English"
+        ]
+      },
+      {
+        "word": "vitiate",
+        "meanings": [
+          "to make something less effective; to spoil something"
+        ],
+        "synonyms": [
+          [
+            "blemish",
+            "darken",
+            "mar",
+            "poison",
+            "spoil",
+            "stain",
+            "taint",
+            "tarnish",
+            "touch"
+          ]
+        ],
+        "wordSentence": [
+          "The impact of the film was vitiated by poor acting.",
+          "believed that luxury vitiates even the most principled person"
+        ]
+      }
+    ]
+  }
+}
