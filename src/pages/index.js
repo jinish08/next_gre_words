@@ -5,6 +5,18 @@ import { useRouter } from 'next/router'
 
 const inter = Inter({ subsets: ['latin'] })
 
+const SetCard = ({ name }) => {
+  const router = useRouter()
+  return (
+    <div
+      className={styles['set-card']}
+      onClick={() => router.push(`/${name}`)}
+    >
+      <h2>{name}</h2>
+    </div>
+  )
+}
+
 export default function Home(props) {
 
   let files = props.files.map((file, index) => (
@@ -28,12 +40,12 @@ export default function Home(props) {
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.container}>
-          <h1 className={styles.heading_1}>Word List</h1>
-          <ul>
+          <h1 className={styles.heading_1}>Word Sets</h1>
+          <div className={styles.setList}>
             {files.map((file, index) => (
-              <li key={index}><a href={`/${file.split('.')[0]}`}>{file.split('.')[0]}</a></li>
+              <SetCard name={file.split('.')[0]} key={index} />
             ))}
-          </ul>
+          </div>
         </div>
       </main>
     </>

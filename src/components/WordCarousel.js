@@ -54,7 +54,7 @@ const WordCarousel = ({ words }) => {
 
   const handleSwipe = () => {
     const distanceX = touchEndX - touchStartX;
-    if (Math.abs(distanceX) > 100 && isMobile()) {
+    if (Math.abs(distanceX) > 50 && isMobile()) {
       if (distanceX > 0) {
         setIsFlipped(false);
         setCurrentIndex((prevIndex) => (prevIndex === 0 ? words.length - 1 : prevIndex - 1));
