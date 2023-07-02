@@ -2,6 +2,7 @@
   /* max-width: 800px; */
   margin: 0 auto;
   padding: 20px;
+  width: 100%;
 }
 
 .heading_1 {
@@ -139,6 +140,18 @@
 
 /* Mobile */
 @media (max-width: 700px) {
+
+  .container{
+    padding: 0;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .main {
+    padding: 0.1rem;
+  }
+
   .content {
     padding: 4rem;
   }

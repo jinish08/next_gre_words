@@ -10,7 +10,10 @@ const inter = Inter({ subsets: ['latin'] })
 const Set = () => {
 
     const router = useRouter();
-    const { name } = router.query;
+    let { name } = router.query;
+    //make first letter uppercase
+    const displayName = name?.charAt(0).toUpperCase() + name?.slice(1);
+    name = name?.split(' ').join('');
 
     const [wordData, setWordData] = useState({})
     
@@ -24,8 +27,20 @@ const Set = () => {
         console.log(name)
     },[name])
 
+    const isMobile = () => {
+        if (typeof window !== "undefined") {
+          return window.matchMedia("(max-width: 768px)").matches;
+        }
+        return false;
+      };
+
   return (
     <main className={`${styles.main} ${inter.className}`}>
+      {isMobile() && name && 
+      <div className={styles.container}>
+          <h1>{displayName}</h1>
+          </div>
+      }
       {Object.keys(wordData).length > 0 && 
       <><div className={styles.container}>
           <WordCarousel words={wordData[`${name}`].words} />

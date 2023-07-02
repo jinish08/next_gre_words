@@ -95,6 +95,22 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 15px;
+
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 15px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+  background: gray;
+} 
+
 a {
   color: inherit;
   text-decoration: none;

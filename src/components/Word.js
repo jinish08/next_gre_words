@@ -5,7 +5,12 @@ const Word = ({word}) => {
 
     const [seeMoreSentence, setSeeMoreSentence] = useState(false);
 
-    console.log(word)
+    const isMobile = () => {
+        if (typeof window !== "undefined") {
+          return window.innerWidth <= 768;
+        }
+        return false;
+      };
 
   return (
     <div
@@ -32,7 +37,7 @@ const Word = ({word}) => {
               ))}
             </ul>
           </div>
-          <div className={styles['word-sentence']}>
+          {!isMobile() && <div className={styles['word-sentence']}>
           <strong>Sentences:</strong>
           <ul>
             {word?.wordSentence.map((sentence, index) => (
@@ -42,7 +47,7 @@ const Word = ({word}) => {
             </ul>
                 
             {word?.wordSentence.length > 1 && <button onMouseEnter={() => setSeeMoreSentence(!seeMoreSentence)}>{seeMoreSentence ? 'See Less' : 'See More'}</button>}
-          </div>
+          </div>}
         </div>
   )
 }

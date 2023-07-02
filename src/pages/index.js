@@ -6,6 +6,18 @@ import { useRouter } from 'next/router'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home(props) {
+
+  let files = props.files.map((file, index) => (
+    file.split('t').join('t ')
+  ))
+
+  //sort the files array by the digits after the word 'set' in the file name
+  files.sort((a, b) => {
+    let aNum = a.split('t')[1].split('.')[0];
+    let bNum = b.split('t')[1].split('.')[0];
+    return aNum - bNum;
+  })
+
   return (
     <>
       <Head>
@@ -18,7 +30,7 @@ export default function Home(props) {
         <div className={styles.container}>
           <h1 className={styles.heading_1}>Word List</h1>
           <ul>
-            {props.files.map((file, index) => (
+            {files.map((file, index) => (
               <li key={index}><a href={`/${file.split('.')[0]}`}>{file.split('.')[0]}</a></li>
             ))}
           </ul>
