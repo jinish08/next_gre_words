@@ -1,10 +1,14 @@
 import React, { useState, useEffect,useRef } from 'react';
 import styles from '@/styles/WordCarousel.module.css';
+import InstructionModal from './InstructionModal';
 
 const WordCarousel = ({ words }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
   const [seeMoreSentence, setSeeMoreSentence] = useState(false);
+
+  const [isOpen, setIsOpen] = useState(false);
+
   let touchStartX = 0;
   let touchEndX = 0;
   const divRef = useRef(null);
@@ -78,16 +82,32 @@ const WordCarousel = ({ words }) => {
   }, [isFlipped]);
 
   const currentWord = words[currentIndex];
+
+
+
+  const toggleModal = () => {
+    setIsOpen(!isOpen);
+  };
+
+  const closeModal = (event) => {
+    if (event.target.classList.contains('InstructionModal_modal__q2r8U')) {
+      toggleModal();
+    }
+  };
   
   return (
+
+    <>
+    <InstructionModal isOpen={isOpen} closeModal={closeModal} toggleModal={toggleModal}/>
+
     <div 
     className={styles['word-carousel']}  
-    onClick={onCardClick} 
+    
     ref={divRef}
     onTouchStart={handleTouchStart}
     onTouchEnd={handleTouchEnd}
     onMouseDown={handleMouseDown}>
-      <div className={`${styles['card']} ${isFlipped ? styles['flipped'] : ''}`}>
+      <div className={`${styles['card']} ${isFlipped ? styles['flipped'] : ''}`} onClick={onCardClick} >
         <div className={`${styles['card-front']} ${styles['card-side']}`}>
           <h2 className={styles['word']}>{currentWord.word}</h2>
         </div>
@@ -125,16 +145,20 @@ const WordCarousel = ({ words }) => {
         </div>
       </div>
       <div className={styles.progress}>
-      <div className={styles['progress']}>
-        Word {currentIndex + 1} of {words.length}
+      <div className={styles['progress-label']}>
+        <p>Word {currentIndex + 1} of {words.length}</p>
+        {!isMobile() ? <p onClick={toggleModal}>instructions</p> : <span>Swipe</span>}
       </div>
         <div
           className={styles.progressBar}
           style={{ width: `${((currentIndex + 1) / words.length) * 100}%` }}
         ></div>
       </div>
-      
     </div>
+
+
+
+    </>
   );
 };
 

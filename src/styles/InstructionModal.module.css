@@ -1,0 +1,53 @@
+    /* Modal Styles */
+
+
+    .modal {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: rgba(0, 0, 0, 0.5);
+        color: #333;
+        backdrop-filter: blur(4px);
+        z-index: 999;
+        visibility: hidden;
+        opacity: 0;
+        transition: visibility 0s, opacity 0.3s;
+      }
+      
+      .open {
+        visibility: visible;
+        opacity: 1;
+      }
+      
+      .modal-content {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+      }
+      
+      .close-button {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        cursor: pointer;
+      }
+      
+      .instructions {
+        margin-top: 20px;
+      }
+      
+      .instruction {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+      }
+      
+      .icon {
+        margin-right: 10px;
+      }
+      
